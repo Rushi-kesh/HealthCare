@@ -1,0 +1,1974 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Specialize">
+    <item>Allergy</item>
+    <item>Anaesthesiology</item>
+    <item>Anesthesia</item>
+    <item>Anesthesiology</item>
+    <item>ARTClinic</item>
+    <item>Arthroscopy</item>
+    <item>AudiologyAnd Speech Therapy</item>
+    <item>Ayurveda</item>
+    <item>Bariatric and Metabolic Surgery</item>
+    <item>BariatricAnd Metabolic Surgery</item>
+    <item>Bariatric Surgery</item>
+    <item>Bio-Chemistry</item>
+    <item>BloodBank</item>
+    <item>BoneAnd Tissue SarcomaBreast Oncology </item>
+    <item>Bone Marrow Transplant</item>
+    <item>Breast Surgery</item>
+    <item>CardiacAnaesthesia</item>
+    <item>CardiacAnesthesia</item>
+    <item>Cardiac Rehab Yoga</item>
+    <item>Cardiac Surgery</item>
+    <item>Cardiology</item>
+    <item>Cardiothoracic</item>
+    <item>Cardiothoracic </item>
+    <item>Cardiothoracic Surgery</item>
+    <item>Cardiothoracic Surgery Micro-Biology Pathology Physiotherapy </item>
+    <item>Cardiovascular Surgery</item>
+    <item>Centre forCare of Newborn</item>
+    <item>Chest Physician</item>
+    <item>Chest Physician </item>
+    <item>Clinical Psychology</item>
+    <item>Colorectal Surgery</item>
+    <item>Cosmetic Dermatology</item>
+    <item>Cosmetic Surgery</item>
+    <item>Cosmetology</item>
+    <item>Cosmetology </item>
+    <item>Counselling</item>
+    <item>CriticalCare</item>
+    <item>CriticalCare Dermatology</item>
+    <item>CytologyEndocrinology</item>
+    <item>De-AddictionAnd Psychiatry</item>
+    <item>Dentistry</item>
+    <item>Dentistry and Maxillofacial Surgery</item>
+    <item>Dentistry and Maxillofacial SurgeryDermatology</item>
+    <item>DentistryAnd Maxillofacial Surgery</item>
+    <item>Dermatology</item>
+    <item>Dermatology </item>
+    <item>DermatologyAndCosmetology</item>
+    <item>Diabetic Foot Surgery</item>
+    <item>Diabetology</item>
+    <item>Dietary Medicine </item>
+    <item>Dietetics</item>
+    <item>DieteticsAnd Nutrition</item>
+    <item>EmergencyAnd TraumaCentre</item>
+    <item>Emergency Medicine</item>
+    <item>Emergency Medicine Endocrinology</item>
+    <item>Endocrinology</item>
+    <item>Endocrinology </item>
+    <item>EndocrinologyENT</item>
+    <item>EndocrinologyENTAnd Head and Neck Surgery</item>
+    <item>Endoscopic</item>
+    <item>Endoscopy</item>
+    <item>Endoscopy </item>
+    <item>ENT</item>
+    <item>ENT </item>
+    <item>ENTAnd Head and Neck Surgery</item>
+    <item>ENTAnd HeadAnd Neck Surgery</item>
+    <item>Family Medicine</item>
+    <item>Fetal Medicine</item>
+    <item>Forensic Medicine</item>
+    <item>Gastro Surgery</item>
+    <item>Gastroenterology</item>
+    <item>Gastroenterology </item>
+    <item>GastroenterologyGastrointestinal Surgery</item>
+    <item>GastroenterologyGynaecology</item>
+    <item>Gastrointestinal </item>
+    <item>Gastrointestinal Medicine</item>
+    <item>Gastrointestinal Surgery</item>
+    <item>Gastrology</item>
+    <item>General and Laparoscopic</item>
+    <item>General and Laparoscopic Surgery</item>
+    <item>GeneralAnd Laparoscopic Surgery</item>
+    <item>General Medicine</item>
+    <item>General MedicineGeneral SurgeryInterventionalCardiology</item>
+    <item>General Surgery</item>
+    <item>General SurgeryGynaecology</item>
+    <item>General SurgeryGyneac Oncology</item>
+    <item>General Surgery Gynaecology</item>
+    <item>Genetics</item>
+    <item>Geriatrics</item>
+    <item>Geriatrics </item>
+    <item>Gynaecological Laparoscopy </item>
+    <item>Gynaecology</item>
+    <item>Gynaecology </item>
+    <item>Gynaecologyhomeopathy</item>
+    <item>Gyneac Oncology</item>
+    <item>haematology</item>
+    <item>haematologyhomeopathy</item>
+    <item>haematologyhomeopathy  Joint Replacement Surgery</item>
+    <item>haematologyImaging Sciences</item>
+    <item>hair Transplantation</item>
+    <item>healthy LivingCard Internal Medicine InterventionalCardiology</item>
+    <item>hemato Oncology</item>
+    <item>hepatology</item>
+    <item>hip Surgery</item>
+    <item>histopathology</item>
+    <item>histopathologyInterventional Radiology</item>
+    <item>holistic Medicine</item>
+    <item>homeopathy</item>
+    <item>Immunology</item>
+    <item>Infectious diseases</item>
+    <item>Internal Medicine</item>
+    <item>Interventional </item>
+    <item>InterventionalCardiology</item>
+    <item>Interventional Neuroradiology</item>
+    <item>Interventional Radiology</item>
+    <item>IVF and Infertility</item>
+    <item>IVFAnd Infertility</item>
+    <item>IVFAnd Infertility </item>
+    <item>IVFAnd Infertility  Nephrology</item>
+    <item>IVFAnd Infertility Treatment</item>
+    <item>Joint Replacement </item>
+    <item>Joint Replacement Surgery</item>
+    <item>Joint Replacement Surgery Neurology</item>
+    <item>Kidney Transplantation</item>
+    <item>Knee Surgery</item>
+    <item>Laboratory Medicine</item>
+    <item>Laboratory Services</item>
+    <item>Laparoscopic Surgery</item>
+    <item>Liver Transplant</item>
+    <item>Liver Transplant  Micro-Biology</item>
+    <item>Maxillofacial Surgery</item>
+    <item>Maxillofacial Surgery  Nephrology</item>
+    <item>Maxillofacial Surgery Medical Oncology</item>
+    <item>Medical Oncology</item>
+    <item>Medical Oncology  Nephrology</item>
+    <item>Medicine</item>
+    <item>Medicine -Chest</item>
+    <item>Micro Surgery</item>
+    <item>Micro-Biology</item>
+    <item>MinimalAccessAnd General Surgery</item>
+    <item>MinimalAccess Surgery</item>
+    <item>Minimally Invasive</item>
+    <item>Minimally Invasive </item>
+    <item>Minimally InvasiveCardiac Surgery</item>
+    <item>Minimally Invasive Surgery</item>
+    <item>Naturopathy</item>
+    <item>Naturopathy  Neuro Surgery</item>
+    <item>Neonatal Surgery</item>
+    <item>Neonatology</item>
+    <item>Neonatology </item>
+    <item>Neonatology  Nephrology  Neuro Surgery</item>
+    <item>Neonatology Neuro Surgery</item>
+    <item>Nephrology</item>
+    <item>Nephrology </item>
+    <item>Nephrology  Neurology</item>
+    <item>Nephrology Neurology</item>
+    <item>Nephrology/Urology</item>
+    <item>Neuro </item>
+    <item>Neuro Oncolo+I83gy Nuclear Medicine</item>
+    <item>Neuro Psychiatry</item>
+    <item>Neuro Psychology</item>
+    <item>Neuro Surgery</item>
+    <item>Neuro Surgery Neurology</item>
+    <item>NeurointensiveCare</item>
+    <item>Neurology</item>
+    <item>Neurology </item>
+    <item>Neurology  Nuclear Medicine</item>
+    <item>Neurology  Obesity</item>
+    <item>Neurology  Obstetricsand Gynaecology</item>
+    <item>Neurology  Ophthalmology</item>
+    <item>Neurology  Ophthalmology  Orthopedic Surgery</item>
+    <item>Neurology  Ophthalmology  Pathology </item>
+    <item>Neurology/Neurosurgery</item>
+    <item>Neuro-Ophthalmology </item>
+    <item>Neurophysiology</item>
+    <item>Neurophysiology </item>
+    <item>NeuroscienceCentre</item>
+    <item>Neurosurgery</item>
+    <item>Nuclear Medicine</item>
+    <item>Nuclear Medicine  ObstetricsAnd Gynaecology</item>
+    <item>Obesity</item>
+    <item>Obesity  Ophthalmology</item>
+    <item>Obstetrics</item>
+    <item>Obstetrics </item>
+    <item>Obstetrics and Gynaecology</item>
+    <item>ObstetricsAnd Gynaecology</item>
+    <item>ObstetricsAnd Gynaecology  Ophthalmology</item>
+    <item>ObstetricsAnd Gynaecology Oncology Ophthalmology Orthopedics Pain Management Pediatric Surgery PediatricAnd Neonatology Plastic Surgery Psychiatry Pulmonology Radiation Oncology RadiologyAnd Imageology Rheumatology Robotic Surgery Spine Surgery Surgical Gastroenterology Surgical Oncology Transfusion Medicine Urology Vascular Surgery </item>
+    <item>Obstetrics Emergency</item>
+    <item>Obstetricsand Gynaecology</item>
+    <item>Occupational therapy</item>
+    <item>Ocular Electrophysiology</item>
+    <item>Oncology</item>
+    <item>Oncology </item>
+    <item>Oncology Ophthalmology</item>
+    <item>Ophthalmology</item>
+    <item>Ophthalmology </item>
+    <item>Ophthalmology OrthopedicsAnd Traumatology</item>
+    <item>Ophthalmology Orthopedics Pain Management Pathology Pediatric Surgery Pediatric Physiotherapy Plastic Surgery Preventive Medicine / Wellness Psychiatry Pulmonology Radiation Oncology Radiology Spine Surgery Surgical Gastroenterology Surgical Oncology Urology </item>
+    <item>Ophthalmology Pediatric </item>
+    <item>Oral Surgery</item>
+    <item>Orthodontics</item>
+    <item>Orthodontics </item>
+    <item>Orthopaedic Oncology</item>
+    <item>Orthopaedic Surgery</item>
+    <item>Orthopaedics</item>
+    <item>Orthopaedics </item>
+    <item>Orthopaedics and Traumatology</item>
+    <item>Orthopedic</item>
+    <item>OrthopedicAnd Joint Replacements</item>
+    <item>Orthopedic Oncology</item>
+    <item>Orthopedic Surgery</item>
+    <item>Orthopedic Surgery OrthopedicsAnd Traumatology</item>
+    <item>Orthopedics</item>
+    <item>Orthopedics </item>
+    <item>Orthopedics  Pain Management</item>
+    <item>Orthopedics  Pathology</item>
+    <item>Orthopedics  Surgical Oncology</item>
+    <item>Orthopedics and Traumatology</item>
+    <item>OrthopedicsAnd Traumatology</item>
+    <item>OrthopedicsAnd Traumatology </item>
+    <item>Otolaryngology</item>
+    <item>Paediatric</item>
+    <item>Paediatric </item>
+    <item>Paediatric and Neonatology</item>
+    <item>PaediatricCardiology</item>
+    <item>Paediatric Nephrology</item>
+    <item>Paediatric Orthopaedics</item>
+    <item>Paediatric PlasticAnd Reconstructive Surgery</item>
+    <item>Paediatric Surgery</item>
+    <item>Paediatrics</item>
+    <item>Paediatrics and Neonatology</item>
+    <item>Pain Management</item>
+    <item>PalliativeCare</item>
+    <item>Pathology</item>
+    <item>Pathology </item>
+    <item>Pediatric</item>
+    <item>Pediatric </item>
+    <item>PediatricAnd Neonatology</item>
+    <item>PediatricCardiac Surgery</item>
+    <item>PediatricCardiology</item>
+    <item>PediatricCardiology </item>
+    <item>PediatricCardiothoracic Surgery</item>
+    <item>Pediatric Dentistry </item>
+    <item>Pediatric Endocrinology</item>
+    <item>Pediatric haematology</item>
+    <item>Pediatric haematologyAnd Oncology</item>
+    <item>Pediatric Nephrology</item>
+    <item>Pediatric Neuro</item>
+    <item>Pediatric Neuro Surgery</item>
+    <item>Pediatric Neurology</item>
+    <item>Pediatric Oncology</item>
+    <item>Pediatric Ophthalmology</item>
+    <item>Pediatric Ophthalmology </item>
+    <item>Pediatric Orthopedics</item>
+    <item>Pediatric Orthopedics </item>
+    <item>Pediatric Surgery</item>
+    <item>Pediatric Surgery </item>
+    <item>Pediatric Urology</item>
+    <item>Pediatrics</item>
+    <item>Pediatrics </item>
+    <item>Pediatrics  Physiotherapy</item>
+    <item>Pediatrics  Surgical Gastroenterology</item>
+    <item>Pediatrics and Neonatology</item>
+    <item>PediatricsAnd Neonatology</item>
+    <item>Pediatrics Physiology Physiotherapy Plastic Surgery Psychiatry Psychology Radiology Sonology Spine Surgery Sports Medicine Surgical Oncology Urology Vascular Surgery </item>
+    <item>Peripheral </item>
+    <item>Physical </item>
+    <item>Physical MedicineAnd Rehabilitation</item>
+    <item>Physiology</item>
+    <item>Physiotherapy</item>
+    <item>Physiotherapy </item>
+    <item>PhysiotherapyAnd Rehabilitation</item>
+    <item>Physiotherapy PlasticAnd Reconstructive Surgery</item>
+    <item>Physiotherapy Plastic Surgery</item>
+    <item>Plastic and Reconstructive </item>
+    <item>Plastic and Reconstructive Surgery</item>
+    <item>PlasticAnd Reconstructive Surgery</item>
+    <item>Plastic Surgery</item>
+    <item>Plastic Surgery </item>
+    <item>Plastic Surgery  Psychiatry</item>
+    <item>Plastic Surgery  Psychiatry </item>
+    <item>Plastic Surgery andCosmetic Surgery</item>
+    <item>Plastic SurgeryAndCosmetic Surgery</item>
+    <item>Preventive </item>
+    <item>Preventive medicine</item>
+    <item>Preventive Medicine / Wellness</item>
+    <item>Preventive Oncology</item>
+    <item>Psychiatry</item>
+    <item>Psychiatry  Pulmonology</item>
+    <item>Psychiatry RadiologyAnd Imageology</item>
+    <item>Psychology</item>
+    <item>Psychology  Reproductive Medicine Respiratory Medicine Speech Therapy Urology </item>
+    <item>Pulmonology</item>
+    <item>Pulmonology </item>
+    <item>Pulmonology Radiology</item>
+    <item>Pulmonology Radiology Rheumatology Transfusion Medicine Urology Urosurgery </item>
+    <item>Radiation Oncology</item>
+    <item>Radiation Oncology </item>
+    <item>Radiation Oncology Reproductive Medicine</item>
+    <item>Radio-Diagnosis</item>
+    <item>Radio-Diagnosis </item>
+    <item>Radiology</item>
+    <item>Radiology </item>
+    <item>Radiology  Speech Therapy</item>
+    <item>Radiology  Surgical Oncology</item>
+    <item>Radiology and Imageology</item>
+    <item>RadiologyAnd Imageology</item>
+    <item>Radiology Surgical Oncology Urology </item>
+    <item>Reconstructive Surgery</item>
+    <item>Reconstructive Surgery </item>
+    <item>Rehabilitation medicine</item>
+    <item>Renal Transplant</item>
+    <item>Reproductive </item>
+    <item>Reproductive Medicine</item>
+    <item>Respiratory </item>
+    <item>Respiratory Medicine</item>
+    <item>Rheumatology</item>
+    <item>Rheumatology  Surgical Oncology  Urology</item>
+    <item>Rheumatology  Urology </item>
+    <item>Rheumatology Surgical </item>
+    <item>Robotic Surgery</item>
+    <item>Sexology </item>
+    <item>Sexual Medicine</item>
+    <item>Sleep Medicine</item>
+    <item>Sleep Medicine </item>
+    <item>Sonology</item>
+    <item>Sonology </item>
+    <item>Sonology  Surgical Gastroenterology</item>
+    <item>Speech and Hearing Therapy </item>
+    <item>Speech Therapy</item>
+    <item>Speech Therapy </item>
+    <item>Speech Therapy  Urology </item>
+    <item>Speech Therapy Urology</item>
+    <item>Spine Related Disorders</item>
+    <item>Spine Surgery</item>
+    <item>Spine Surgery </item>
+    <item>Spine Surgery Urology </item>
+    <item>Sports Injuries</item>
+    <item>Sports Medicine</item>
+    <item>Sports Medicine </item>
+    <item>Sports Medicine Urology</item>
+    <item>Surgery</item>
+    <item>Surgical Gastroenterology</item>
+    <item>Surgical Gastroenterology Surgical Oncology Urology Vascular Surgery </item>
+    <item>Surgical Gastroenterology Urology</item>
+    <item>Surgical Oncology</item>
+    <item>Surgical Oncology </item>
+    <item>Surgical Oncology  Urology </item>
+    <item>Surgical Oncology. </item>
+    <item>Transfusion Medicine</item>
+    <item>Transfusion Medicine </item>
+    <item>Transfusion MedicineUrology</item>
+    <item>Transplant surgery</item>
+    <item>Trauma Surgery</item>
+    <item>Trauma Surgery </item>
+    <item>Traumatology</item>
+    <item>Traumatology </item>
+    <item>Uro Oncology</item>
+    <item>Uro Surgery</item>
+    <item>Uro Surgery </item>
+    <item>UroGynaecology</item>
+    <item>Urology</item>
+    <item>Urology </item>
+    <item>Urology Vascular Surgery </item>
+    <item>Urology. </item>
+    <item>UroSurgery</item>
+    <item>UroSurgery </item>
+    <item>Vascular Surgery</item>
+    <item>Vascular Surgery </item>
+    <item>Venereology </item>
+    <item>Vulvology </item>
+    <item>(CTVS) </item>
+    <item>(Golden SpineClinic)</item>
+    <item>(IVF)/Reproductive Medicine</item>
+    <item>(Laser)Cardiology</item>
+    <item>(Laser)Cardiology</item>
+    <item>(Oncology) SurgeryCancer (Oncology) Medicine</item>
+    <item>(Radiology)  Pathology</item>
+    <item>(SJH)Biochemistry (VMMC )</item>
+    <item>(VertigoCare) Physiotherapy OPD </item>
+    <item>.ENT.</item>
+    <item>[Medical and Surgical] General Paediatrics</item>
+    <item>+J681 Minimally Invasive</item>
+    <item>Abg MachineBubbleC.PAP For Premature Neonates </item>
+    <item>Academic difficultiesAnd relationship problemsCounselingAnd treatment for suicide prevention </item>
+    <item>Access</item>
+    <item>Accident and Emergency</item>
+    <item>Accident and Emergency Services</item>
+    <item>Accident and TraumaCentre</item>
+    <item>AccidentAnd Emergency</item>
+    <item>AccupressureAcupuncture </item>
+    <item>AccupressureAcupuncture </item>
+    <item>Acidity</item>
+    <item>Acupressure</item>
+    <item>Acupuncture</item>
+    <item>Addictions</item>
+    <item>Adolescent medicine</item>
+    <item>Advanced Laboratory Services</item>
+    <item>Advanced Laparoscopic Surgery</item>
+    <item>Aesthetic and Reconstructive Surgery</item>
+    <item>AestheticAnd Reconstructive Surgery</item>
+    <item>Aesthetic SurgeryAnaesthesiologyArthroscopic SurgeryCardiologyDental Dermatology Endoscopic Surgery ENT</item>
+    <item>Agni karma </item>
+    <item>AlcoholAnd Drug Deaddiction : Recovery</item>
+    <item>Alcohol De-addictionAnd Stress ManagementEmergency Medical ServicesEndocrinologyE.N.TGastro SciencesGeneral SurgeryhaematologyInternal MedicineLaparoscopy Surgery (MinimalAccess Surgery)Laboratory MedicineNeonatologyNephrologyNeurologyNeurosurgeryManagement of PoisoningAnd SnakeBiteObstetricsAnd GynaecologyOncology (Cancer)Ophthalmology DepartmentOrthopaedicsPaediatricPaediatric SurgeryRadio diagnosisRheumatologyPhysiotherapyAnd RehabilitationPlastic SurgeryPsychiatryAnd PsychologyPulmonaryAnd Sleep MedicineTransfusion MedicineUrology </item>
+    <item>Allergy</item>
+    <item>Alternative Medicine </item>
+    <item>Anaesthesia</item>
+    <item>Anaesthesia </item>
+    <item>AnaesthesiaPlastic Surgery</item>
+    <item>AnaesthesiaUrologist</item>
+    <item>Anaesthesiology</item>
+    <item>Anaesthesiology </item>
+    <item>Anaesthesiology and Pain ManagementBariatric SurgeryCriticalCareDentistryDermatology andCosmetologyDieteticsAndClinical NutritionEndocrinology and DiabetesENT</item>
+    <item>Anaesthesiology and Pain Medicine</item>
+    <item>AnaesthesiologyAndCriticalCare</item>
+    <item>AnaesthesiologyAnd IntensiveCare</item>
+    <item>AnaesthesiologyDentistry</item>
+    <item>Anatomy</item>
+    <item>AnatomyPlastic and Micro vascular SurgeryPhysiology NeurosurgeryClinicalBiochemistry Paediatric SurgeryPharmacology Orthopaedic SurgeryMicrobiology ObstetricsAnd GynaecologyPathology OphthalmologyInternal Medicine Otorhinolaryngology (ENT Surgery)Pulmonary Medicine Physical Medicine and RehabilitationDermatologyChristian DentalCollegeEndocrineAnd Diabetes Unit Radio diagnosis and Interventional RadiologyCardiology Radiation Oncology and RadiotherapyNephrologyBloodBankAdolescent Health ServicesPhysiotherapy and Occupational TherapyClinical haematologyCasualty</item>
+    <item>And Digestive Disease</item>
+    <item>And GynaecologyNeuro SurgeryMinimally Invasive and Keyhole SurgeryUROLOGYENTOrthopaedic Joint Replacement and Ortho-OncologyDermatology andCosmetologyPulmonary MedicineGastroenterologyAnaesthesia and IntensiveCare UnitInternal MedicineNuclear Medicine and PetCtDieteticsRadiology and Radio DiagnosisOphthalmology </item>
+    <item>And Hepatology Medical Oncology Medicine Nephrology Neurology PediatricsAnd Neonatology PhysiotherapyAnd Rehabilitation Sciences Psychiatry PsychotherapyAndCounselling Respiratory Medicine </item>
+    <item>And HepatologyMedical OncologyMedicineNephrologyNeurologyPediatricsAnd NeonatologyPhysiotherapyAnd Rehabilitation SciencesPsychiatryPsychotherapyAndCounsellingRespiratory Medicine </item>
+    <item>And Oncology</item>
+    <item>And Oral Surgery</item>
+    <item>And Squint Services</item>
+    <item>And Throat (ENT)Anesthesiology </item>
+    <item>Andrology</item>
+    <item>Aneasthecialogy</item>
+    <item>Aneshthesia</item>
+    <item>Anesthesia</item>
+    <item>Anesthesia </item>
+    <item>Anesthesiology</item>
+    <item>Anesthesiology </item>
+    <item>Anesthesiology and Pain ManagementPhysiotherapy and RehabilitationAyurveda</item>
+    <item>AnesthesiologyAyurveda MedicineCardiac SciencesDental SurgeryDermatology</item>
+    <item>AnesthesiologyBurnsAnd Plastic SurgeryCancer Surgery</item>
+    <item>AntinatalCare</item>
+    <item>Anxiety Disorders</item>
+    <item>Appendectomy</item>
+    <item>Appendix.GynaecologyAnd maternity.PaediatricsAnd immunization.De-addictionAnd Treatment of psychoAilments.Ortho :- TraumaAnd joint replacement.Treatment of liver diseases.DiabetesAndCardiacClinic.BronchoscopeAnd Thoracoscopy.Endoscopic Surgery of E.N.T.Maxillo Facial Surgery.Treatment of piles with Surgery.Pace-maker for HeartBlocks .Scerotherapy forBlood in Vomiting.Ophthalmology.Photo therapy for neonates.PainClinic.Onco surgery.Treatment ofCancer patients </item>
+    <item>ART</item>
+    <item>ART VCTC (AIDSCLINIC)</item>
+    <item>ArtemisArtificial LimbCentre</item>
+    <item>Arthritis</item>
+    <item>Arthroscopic Surgery</item>
+    <item>Arthroscopy</item>
+    <item>Arthroscopy </item>
+    <item>ARTHROSCOPYAnd Spinal Surgery</item>
+    <item>Artificial LimpCentre</item>
+    <item>Asthma </item>
+    <item>AsthmaAndAllergy</item>
+    <item>Audiology</item>
+    <item>AudiologyAnd Speech Therapy</item>
+    <item>Ayurveda</item>
+    <item>Ayurvedic</item>
+    <item>Ayurvedic </item>
+    <item>AyurvedicAnd Naturopathy</item>
+    <item>Ayurvedic. </item>
+    <item>Bal Yoga</item>
+    <item>Bariatric and Metabolic Surgery</item>
+    <item>BariatricAnd Metabolic Surgery</item>
+    <item>Bariatric Surgery</item>
+    <item>Bariatric/Diabetes Surgeries </item>
+    <item>BehaviourAnd Group therapy</item>
+    <item>Behaviour TherapyAndCounselling.Biofeedback Therapy forAnxietyAnd tension.Psycho-sexual DisordersClinic</item>
+    <item>Bio-Chemistry</item>
+    <item>Biochemistry</item>
+    <item>Bio-Chemistry</item>
+    <item>BiochemistryClinical</item>
+    <item>BiofeedBack therapy</item>
+    <item>Birthing</item>
+    <item>BirthingAnd Maternity Services</item>
+    <item>BleachingBonding </item>
+    <item>BloodBank</item>
+    <item>Blood Transfusion Services</item>
+    <item>Blood Transfusion Services </item>
+    <item>Bone and Joints</item>
+    <item>BoneAnd joint</item>
+    <item>BoneAnd Joints SkinAndCosmetic</item>
+    <item>Bone Marrow</item>
+    <item>Bone Marrow Transplant</item>
+    <item>Bone Marrow transplant </item>
+    <item>Braces </item>
+    <item>BrainAnd Spine</item>
+    <item>BrainAnd SpineCentre</item>
+    <item>Brain mapping</item>
+    <item>Burn</item>
+    <item>BurnsAnd General Surgery</item>
+    <item>BurnsAnd Plastic</item>
+    <item>BurnsAnd Plastic Surgery</item>
+    <item>Burns PlasticsAnd TrumaCareUrology</item>
+    <item>By-Pass surgery</item>
+    <item>C.T.V.S / Neuro surgery</item>
+    <item>Cadiology</item>
+    <item>Caessarean Section</item>
+    <item>Cancer</item>
+    <item>Cancer </item>
+    <item>CancerCare</item>
+    <item>CancerCare </item>
+    <item>Cancer Prevention</item>
+    <item>Cancer surgery</item>
+    <item>Cardiac (HeartCentre) Dentistry</item>
+    <item>CardiacAnaesthesiaCriticalCare</item>
+    <item>CardiacCare </item>
+    <item>Cardiac Electrophysiology</item>
+    <item>Cardiac Sciences </item>
+    <item>Cardiac Surgery</item>
+    <item>Cardiac Surgery </item>
+    <item>Cardiac Surgery -CTVS</item>
+    <item>Cardiac Surgery  Nephrology</item>
+    <item>Cardiac Surgery (CTVS) </item>
+    <item>Cardiac SurgeryCancer</item>
+    <item>Cardiac SurgeryCriticalCare </item>
+    <item>Cardiac Thoracic surgery</item>
+    <item>Cardiac Yoga</item>
+    <item>Cardic SciencesNeuro SciencesOrthopaedic and Joint ReplacementNephrology and UrologyEndocrinologyGastroenterologyPlastic SurgeryOncology and Onco SurgeryMinimalAccess SurgeryInternal Medicine andCriticalCarePaediatric</item>
+    <item>Cardio Thoracic</item>
+    <item>Cardio thoracic </item>
+    <item>Cardio Thoracic and Vascular Surgery</item>
+    <item>Cardio Thoracic Surgery</item>
+    <item>Cardio thoracic vascular surgery</item>
+    <item>Cardiogram</item>
+    <item>CardiographyCancer</item>
+    <item>Cardiologist</item>
+    <item>CardiologistDermatology</item>
+    <item>Cardiology</item>
+    <item>Cardiology </item>
+    <item>Cardiology andCardiac Surgery </item>
+    <item>Cardiology andCardiac SurgeryNeurology and NeurosurgeryGastroenterology and GI surgeryNephrology and UrologyDiabetes and EndocrinologyPlastic Surgery and DermatologyInternal medicineObstetricsand GynaecologyPediatricsEar</item>
+    <item>Cardiology and Diabetes</item>
+    <item>Cardiology (Non-Invasive)</item>
+    <item>CardiologyAndCTVS</item>
+    <item>CardiologyAnd Invasive</item>
+    <item>Cardiology Dentistry Dermatology</item>
+    <item>Cardiology Non-InvasiveCardiology</item>
+    <item>Cardiology Urology </item>
+    <item>Cardiology/Cardiothoracic surgery</item>
+    <item>CardiologyCardio Thoracic Surgery</item>
+    <item>CardiologyOphthalmology</item>
+    <item>CardiologyPediatrics </item>
+    <item>Cardiothoracic</item>
+    <item>Cardiothoracic </item>
+    <item>CardiothoracicAnd Vascular</item>
+    <item>CardiothoracicAnd Vascular Surgery</item>
+    <item>CardiothoracicAnd Vascular Surgery (CTVS)</item>
+    <item>CardiothoracicAnd Vascular Surgery (CTVS) Deptt.DentalDermatology (Skin)DieteticsDrug</item>
+    <item>Cardiothoracic Surgery</item>
+    <item>Cardiothrocic Surgery</item>
+    <item>Cardiovascular Surgery</item>
+    <item>Cardiovascular Surgery </item>
+    <item>Care Radiation Oncology</item>
+    <item>Casualty</item>
+    <item>Casualty </item>
+    <item>Cataract</item>
+    <item>Cataract andAnterior SegmentRetina and Lasers</item>
+    <item>CataractAnd IOL</item>
+    <item>CataractClinic</item>
+    <item>Cataract Services</item>
+    <item>Cataract Surgery</item>
+    <item>CataractLasik-Corneal Laser SurgeryVitreo-Retinal ServicesGlaucoma </item>
+    <item>CCU </item>
+    <item>Center For Human Reproduction</item>
+    <item>Chest</item>
+    <item>Chest </item>
+    <item>Chest and Respiratory Medicine</item>
+    <item>Chest and TB Pediatric Surgery </item>
+    <item>ChestAndAllergy</item>
+    <item>ChestAnd Respiratory</item>
+    <item>ChestClinic</item>
+    <item>ChestClinicAnd DOTSCenter</item>
+    <item>Chest Medicine</item>
+    <item>Chest Medicine </item>
+    <item>Chest Physician</item>
+    <item>Chest PhysicianClinical </item>
+    <item>Chest PhysicianCommunity</item>
+    <item>ChestDentistrym</item>
+    <item>ChildAndAdolescent (PediatricsAnd Neonatology) </item>
+    <item>ChildAndAdolescent Mental Health Services</item>
+    <item>ChildCare</item>
+    <item>ChildCare. </item>
+    <item>Child DevelopmentAnd Guidance</item>
+    <item>Child guidance services</item>
+    <item>Child Health </item>
+    <item>Child Psychology</item>
+    <item>CholecystectomyAndCommonBile duct surgeries</item>
+    <item>CLE Refractive ServicesCornea </item>
+    <item>Cleft lip and Palate</item>
+    <item>Clinical</item>
+    <item>Clinical </item>
+    <item>ClinicalBiochemistry</item>
+    <item>Clinical Genetics</item>
+    <item>Clinical haematology</item>
+    <item>Clinical Immunology and Rheumatology</item>
+    <item>Clinical Laboratory</item>
+    <item>Clinical Nutrition</item>
+    <item>Clinical Oncology</item>
+    <item>Clinical Pathology</item>
+    <item>Clinical Psychology</item>
+    <item>Clinical Services</item>
+    <item>Cochlear Implant Surgery</item>
+    <item>College of Nursing </item>
+    <item>Colposcopy</item>
+    <item>Community Medicine</item>
+    <item>Community Medicine (PSM)</item>
+    <item>Community/Behavioral medicine</item>
+    <item>Community-Medicine</item>
+    <item>Comprehensive EyeCheck-up</item>
+    <item>Computerized EyeCheck up</item>
+    <item>Contact Lens</item>
+    <item>Contact Lens </item>
+    <item>Contact LensClinic</item>
+    <item>Contact LensClinicTreatmentSurgeries</item>
+    <item>Contact Lenses</item>
+    <item>Contact Lenses Optical Services</item>
+    <item>Contraceptive</item>
+    <item>Cornea</item>
+    <item>Cornea Services</item>
+    <item>Cornea ServicesVision Therapy </item>
+    <item>Cornea Transplant and Refractive Lasers</item>
+    <item>Corneal Disorders /C3R Glaucoma </item>
+    <item>Corneal SpecialityClinicGlaucoma Services</item>
+    <item>Corneal Transplant Surgeries. </item>
+    <item>CoronaryAngiography</item>
+    <item>Cosmetic</item>
+    <item>CosmeticAnd LaserCenter</item>
+    <item>CosmeticAnd Plastic Surgery</item>
+    <item>CosmeticAnd Reconstructive Surgery</item>
+    <item>CosmeticAnd Reconstructive SurgeryCancer Surgery </item>
+    <item>Cosmetic Dentistry</item>
+    <item>Cosmetic Surgery</item>
+    <item>Cosmetic Surgery </item>
+    <item>Counselling</item>
+    <item>CriticalCare</item>
+    <item>CriticalCare </item>
+    <item>CriticalCare and Pain</item>
+    <item>CriticalCareAnd Pain Management</item>
+    <item>CriticalCareAnd Pulmonary Medicine</item>
+    <item>CriticalCare Dental</item>
+    <item>CriticalCare Medicine</item>
+    <item>CriticalCare Services</item>
+    <item>Crosslay Wellness</item>
+    <item>Crowns andBridges</item>
+    <item>Customized Wave-front LASIK laser for removing glasses</item>
+    <item>Cytology Laboratory</item>
+    <item>Daily</item>
+    <item>Deaddiction</item>
+    <item>De-Addiction</item>
+    <item>Dental</item>
+    <item>Dental </item>
+    <item>Dental and Oral Surgery</item>
+    <item>DentalAnd ImplantCenter</item>
+    <item>DentalAnd Maxillo Facial Surgery</item>
+    <item>DentalAnd Maxillofacial Surgery</item>
+    <item>DentalAnd Oral Surgery</item>
+    <item>DentalCare</item>
+    <item>DentalCare </item>
+    <item>DentalClinic</item>
+    <item>Dental Department</item>
+    <item>Dental Department NewBorn andChild Specialist </item>
+    <item>Dental ImplantsGum Reshaping</item>
+    <item>Dental Medicine</item>
+    <item>Dental Sciences</item>
+    <item>Dental Services</item>
+    <item>Dental Services </item>
+    <item>Dental Specialities </item>
+    <item>Dental Surgeon</item>
+    <item>Dental surgery</item>
+    <item>Dental Surgery </item>
+    <item>Dental Surgery General </item>
+    <item>Dental Treatments</item>
+    <item>DentalENT andCochlear ImplantsCardiologyGastroenterologyNeurosurgeryPlastic and Reconstructive SurgeryPsychiatry andClinical Psychology</item>
+    <item>Dentistry</item>
+    <item>Dentistry </item>
+    <item>DentistryAnd Dental Surgery</item>
+    <item>DentistryAnd Maxillofacial Surgery</item>
+    <item>Dentures</item>
+    <item>Department </item>
+    <item>Department of Medicine</item>
+    <item>Depression</item>
+    <item>Dermatology</item>
+    <item>Dermatology </item>
+    <item>Dermatology andCosmetic Dermatosurgery</item>
+    <item>Dermatology (Skin)</item>
+    <item>Dermatology (SKIN) </item>
+    <item>DermatologyAnd STD </item>
+    <item>Dermatology Endocrinology and LaserCentre </item>
+    <item>Dermatology. </item>
+    <item>DermatologyCriticalCare </item>
+    <item>DermatologyENT</item>
+    <item>Developmental</item>
+    <item>Developmental PaediatricsDietetics</item>
+    <item>Diabetes and Endocrinology</item>
+    <item>Diabetes and EndocrinologyDietary </item>
+    <item>Diabetes and Metabolism</item>
+    <item>DiabetesAnd Endocrinology</item>
+    <item>DiabetesAnd relatedAilments</item>
+    <item>Diabetic</item>
+    <item>Diabetic Retinopathy Macular Degeneration</item>
+    <item>Diabetology</item>
+    <item>Diagnostic Laparoscopy</item>
+    <item>Diagnostics</item>
+    <item>Dialysis</item>
+    <item>Dialysis Radiology</item>
+    <item>Dialysis Unit</item>
+    <item>Dialysis unitArthroscopy</item>
+    <item>Dietary</item>
+    <item>Dietary Services</item>
+    <item>Dietetic</item>
+    <item>Dietetics</item>
+    <item>Dietetics </item>
+    <item>DieteticsAnd Nutrition</item>
+    <item>DieteticsAnd Nutrition </item>
+    <item>Dietetics Lab</item>
+    <item>Dietician</item>
+    <item>DieticsAnd Nutrition</item>
+    <item>Drug deaddictionAnd rehabilitationCenter </item>
+    <item>Drug de-addiction services </item>
+    <item>DrugsAndAlcohol</item>
+    <item>DTC</item>
+    <item>E. N. T.</item>
+    <item>E.N.T</item>
+    <item>E.N.T </item>
+    <item>E.N.T.</item>
+    <item>E.N.T. </item>
+    <item>E.N.T./Head and Neck Surgery </item>
+    <item>EarAnd nose surgeries. </item>
+    <item>Ear NoseAnd ThroatEndocrinology</item>
+    <item>Ear Surgery</item>
+    <item>Eating Disorders</item>
+    <item>Echo</item>
+    <item>Ecology</item>
+    <item>Electrolysis</item>
+    <item>Electrophysiology</item>
+    <item>ElectrophysiologyAnd Pacing Paediatric </item>
+    <item>Emergency</item>
+    <item>Emergency andCriticalCare</item>
+    <item>Emergency /Casualty </item>
+    <item>EmergencyAndCriticalCare</item>
+    <item>EmergencyAnd Trauma</item>
+    <item>EmergencyAnd Trauma </item>
+    <item>Emergency Medicine</item>
+    <item>Emergency Medicine </item>
+    <item>Emergency MedicineAnd Trauma</item>
+    <item>Emergency service</item>
+    <item>Emergency Services</item>
+    <item>EndocrineAndBreast Surgery</item>
+    <item>EndocrineAnd Thyroid Surgery</item>
+    <item>Endocrinologist (Thyroid)</item>
+    <item>Endocrinology</item>
+    <item>Endocrinology </item>
+    <item>EndocrinologyAnd Diabetes</item>
+    <item>EndocrinologyAnd DiabeticClinicNeurology</item>
+    <item>EndocrinologyAnd Diabetology </item>
+    <item>EndocrinologyAnd Endocrine Surgery</item>
+    <item>EndocrinologyAnd Metabolism</item>
+    <item>EndocrinologyENT </item>
+    <item>Endogyne</item>
+    <item>EndoscopicAnd urology surgery Gyne</item>
+    <item>Endoscopic procedure</item>
+    <item>Endoscopic Surgery</item>
+    <item>Endoscopy</item>
+    <item>EndoscopyBronchoscopy</item>
+    <item>ENT</item>
+    <item>ENT </item>
+    <item>ENT and Head Neck Surgery</item>
+    <item>ENTAndCochlear Implant</item>
+    <item>ENTAnd Head and Neck Surgery</item>
+    <item>ENTAnd Speech Therapy</item>
+    <item>ENT Gastroenterology</item>
+    <item>ENT head Neck</item>
+    <item>ENT Physiotherapy</item>
+    <item>ENT Surgeries</item>
+    <item>Eye</item>
+    <item>Eye </item>
+    <item>EyeBank</item>
+    <item>EyeBank Services </item>
+    <item>EyeCare</item>
+    <item>EyeCare </item>
+    <item>EyeCasualty</item>
+    <item>EyeCollectionAnd EyeBank. </item>
+    <item>Eye Emergency Services</item>
+    <item>EYE Surgeries</item>
+    <item>Eye Transplantation</item>
+    <item>EYE/ENT</item>
+    <item>EyeDental</item>
+    <item>Family Planning</item>
+    <item>Family Welfare</item>
+    <item>Female General</item>
+    <item>FemtoCataract Surgery</item>
+    <item>Fetal Medicine</item>
+    <item>Fetal Radiology</item>
+    <item>Fibroscan </item>
+    <item>Fixed Teeth ReplacementDental Implants </item>
+    <item>FMT</item>
+    <item>Foetal Medicine</item>
+    <item>Forensic Medicine</item>
+    <item>Forensic Medicine and Toxicology</item>
+    <item>Forensic-Medicine</item>
+    <item>Gastro</item>
+    <item>Gastro and Hepatology </item>
+    <item>Gastro EnterologistCT / MRI</item>
+    <item>Gastro Enterology </item>
+    <item>Gastro Intestinal Surgery</item>
+    <item>Gastro Sciences </item>
+    <item>Gastro Surgery</item>
+    <item>Gastroenternology</item>
+    <item>Gastro-enterologist</item>
+    <item>Gastroenterology</item>
+    <item>Gastroenterology </item>
+    <item>Gastroenterology (Endoscopy)</item>
+    <item>GastroenterologyAnd Endoscopy</item>
+    <item>GastroenterologyAnd Hepatology</item>
+    <item>Gastroenterology DentalCare</item>
+    <item>Gastroenterology GeneralAnd Family Practice General Medicine </item>
+    <item>Gastroenterology General Surgery</item>
+    <item>GastroenterologyCardiologyEndocrinologyCardiac</item>
+    <item>GastroenterologyPsychiatry</item>
+    <item>Gastroentology and Hepatology</item>
+    <item>GastrointestinalAndBariatric SurgeryMotherAndChildNeuro SciencesNeuro</item>
+    <item>Gastrointestinal Sciences</item>
+    <item>Gastro-Intestinal Surgery</item>
+    <item>Gastrology </item>
+    <item>Gastronterology</item>
+    <item>General</item>
+    <item>General and Laparoscopic Surgery</item>
+    <item>General and Laparoscopic SurgeryOBS and Gynaecology </item>
+    <item>General and MinimallyAccess Surgery</item>
+    <item>General / Family practice</item>
+    <item>General / Minimally invasive surgeryBloodBank Services</item>
+    <item>GeneralAnd Laparoscopic Surgery</item>
+    <item>GeneralAnd Laparoscopic surgeryObstetricsAnd Gynaecology</item>
+    <item>GeneralAnd Laproscopic SurgeryCardio Thoracic SurgeryOro-Maxillary Surgeon </item>
+    <item>GeneralAnd MinimalAccess</item>
+    <item>GeneralAnd MinimalAccess Surgery</item>
+    <item>General Dentistry</item>
+    <item>General Laparoscopy</item>
+    <item>General Medicie</item>
+    <item>General Medicine</item>
+    <item>General Medicine ENT</item>
+    <item>General Medicine General Surgery</item>
+    <item>General Medicines</item>
+    <item>General Ophthalmologist</item>
+    <item>General Ophthalmology Pediatetric and NeonatalCare Laparoscopic and General SurgeryMedicine ENTPhysiotherapy Orthopedic Gynaecology GynaecologyAnd Obstetrics</item>
+    <item>General Pediatrics and Neonatology</item>
+    <item>General SurgeonNeurosurgeon</item>
+    <item>General Surgery</item>
+    <item>General Surgery </item>
+    <item>General Surgery and Head and Neck Surgery</item>
+    <item>General Surgery and Vascular Surgery </item>
+    <item>General SurgeryCenterAndAdvanced Laparoscopy </item>
+    <item>General Surgery Gynaecology</item>
+    <item>General Surgery ICU </item>
+    <item>General SurgeryMicrobiology</item>
+    <item>Genetics</item>
+    <item>Genetics </item>
+    <item>Genito urinary surgery</item>
+    <item>GIAnd Minimally Invasive Surgery</item>
+    <item>GIBleed Unit</item>
+    <item>GI Surgery</item>
+    <item>Glaucoma</item>
+    <item>Glaucoma </item>
+    <item>GlaucomaClinic</item>
+    <item>Glaucoma ScreeningCell</item>
+    <item>Glaucoma Services</item>
+    <item>Glaucoma Surgeries</item>
+    <item>Gynae</item>
+    <item>Gynae Department </item>
+    <item>Gynae Endoscopy Endocrinology ENT </item>
+    <item>Gynaecologic Oncology</item>
+    <item>Gynaecological Oncology</item>
+    <item>Gynaecological Procedures</item>
+    <item>Gynaecological Surgery</item>
+    <item>Gynaecology</item>
+    <item>Gynaecology </item>
+    <item>Gynaecology and InfertilityOtherAllied SpecialitiesSupport Services </item>
+    <item>Gynaecology and Obstratics</item>
+    <item>Gynaecology / Obstetrics</item>
+    <item>GynaecologyAnd Obstetrics</item>
+    <item>GynaecologyAnd Obstetrics </item>
+    <item>GynaecologyAnd Obstetrics ian</item>
+    <item>GynaecologyAnd ObstetricsDentalPediatrics</item>
+    <item>GynaecologyAnd ObstetricsEmergencyAnd TraumaCare</item>
+    <item>Gynaecology GynaecologyAnd Obstetrics</item>
+    <item>Gynaecology Operations</item>
+    <item>Gynaecology Surgery</item>
+    <item>GynaecologyPediatrics</item>
+    <item>Gynecological Laparoscopic Surgeries</item>
+    <item>Haematological Oncology</item>
+    <item>Haematology</item>
+    <item>Haematology </item>
+    <item>Haematology and Oncology</item>
+    <item>HaematologyAndClinicalCytopathology</item>
+    <item>Haematology Oncology</item>
+    <item>Hair Transplant</item>
+    <item>Head and Neck SurgeryGeneral SurgeryAnd MinimalAccess SurgeryInternal MedicineInterventional RadiologyLaboratory ServicesAndBloodBankMedical OncologyNeonatologyNephrologyOphthalmologyObstetricsAnd GynaecologyPlastic</item>
+    <item>HeadAnd NeckCancer PediatricsAnd Paediatric</item>
+    <item>HeadAnd Neck Oncology </item>
+    <item>HeadAnd Neck Surgery</item>
+    <item>HeadAnd Neck Surgery: </item>
+    <item>HeadAnd Neck SurgeryObstetricsand Gynaecology</item>
+    <item>HealthChecks </item>
+    <item>Heart</item>
+    <item>Heart </item>
+    <item>HeartCare</item>
+    <item>HeartCare </item>
+    <item>HeartCareCentre</item>
+    <item>HematoOncology</item>
+    <item>Hepatobiliary Surgery</item>
+    <item>Hepatology</item>
+    <item>High Risk Obs</item>
+    <item>High Risk Pregnancies</item>
+    <item>Histopathology</item>
+    <item>HIV/AIDS</item>
+    <item>Holistic </item>
+    <item>Holistic Medicine</item>
+    <item>Homeopathy</item>
+    <item>Homeopathy </item>
+    <item>HomeopathyAnd Family welfare </item>
+    <item>HomeopathyImaging and RadiologyLaboratory Diagnostics </item>
+    <item>Hysteroscopy Surgeries</item>
+    <item>ICL Refractive Services </item>
+    <item>ICU-ICCU </item>
+    <item>ICUInternal Medicine</item>
+    <item>Imaging</item>
+    <item>Imaging and Diagnostics</item>
+    <item>ImagingAnd Interventional Radiology</item>
+    <item>Immunisation</item>
+    <item>Immunology</item>
+    <item>Including HealthCheck</item>
+    <item>Infectious Diseases</item>
+    <item>Infertility</item>
+    <item>Infertility </item>
+    <item>InfertilityClinic (ForBoth MaleAnd Female</item>
+    <item>InfertilityClinicLaparoscopic SurgeryMedicineNeurologyNephrologyNeurosurgeryNeonatal and PaediatricAnaesthesiaOncologyOro-Maxillo Facial SurgeryOrthopaedicOphthalmologyPlastic SurgeryPaediatricsPaediatrics SurgeryUrology </item>
+    <item>Inflammation</item>
+    <item>InjuryClinic</item>
+    <item>Institute of Minimal </item>
+    <item>Institute of Obstetricsand Gynaecology</item>
+    <item>Institute of Robotic Surgery</item>
+    <item>Intercostal Intubations</item>
+    <item>Internal Medicine</item>
+    <item>Internal Medicine ENT</item>
+    <item>Internal Medicine Interventional Radiology</item>
+    <item>Internal MedicineDentistry</item>
+    <item>Internal MedicineJoint Replacement and Orthopedic</item>
+    <item>Internal MedicineLaparoscopic</item>
+    <item>Internal MedicinePlastic Surgery</item>
+    <item>Intervention radiology</item>
+    <item>Interventional </item>
+    <item>InterventionalCardiology</item>
+    <item>Interventional Radiology</item>
+    <item>Intra uterine</item>
+    <item>In-vitro fertilisation (MARC)</item>
+    <item>In-Vitro Fertilization </item>
+    <item>IOLS</item>
+    <item>IQAnd Personality Tests.Psychotherapy</item>
+    <item>IVF</item>
+    <item>IVF </item>
+    <item>IVF and Infertility</item>
+    <item>IVFAnd Infertility</item>
+    <item>IVFAnd Infertility Treatment</item>
+    <item>IVF Treatments</item>
+    <item>IYCFCentre</item>
+    <item>Joint Pain </item>
+    <item>Joint Replacement</item>
+    <item>Joint Replacement </item>
+    <item>Joint Replacement Surgery</item>
+    <item>Joint Replacement SurgeryMedicine</item>
+    <item>Joint Replacement SurgeryNephrology</item>
+    <item>Joint Replacements</item>
+    <item>JointsAndBones (Orthopaedic)</item>
+    <item>Kayachikitsa</item>
+    <item>Kidney Stone Removal</item>
+    <item>Kshara karma</item>
+    <item>Laboratory</item>
+    <item>Laboratory Medicine</item>
+    <item>Laboratory Medicine.  Nephrology.  Neuro Surgery.  Neurology.  Oncology</item>
+    <item>Laboratory Medicines</item>
+    <item>Laboratory Services</item>
+    <item>Labour Room </item>
+    <item>Lap. Surgery</item>
+    <item>LaparoscopicAnd General Surgery</item>
+    <item>LaparoscopicAnd MinimallyAccess Surgery</item>
+    <item>Laparoscopic General Surgeries</item>
+    <item>Laparoscopic Gynaecology</item>
+    <item>Laparoscopic Surgery</item>
+    <item>Laparoscopic Surgery </item>
+    <item>Laparoscopy</item>
+    <item>Laparoscopy </item>
+    <item>LaparoscopyAnd Keyhole Surgery</item>
+    <item>Laparoscopy Pediatrics</item>
+    <item>Laparoscopy Surgery</item>
+    <item>Laroscopic Surgery</item>
+    <item>Lasik</item>
+    <item>LASIK / i-LASIK ImplantableContact Lens (ICL) </item>
+    <item>LasikCounsellingClinic</item>
+    <item>Lasik Eye Surgery</item>
+    <item>Lasik Gynaecology</item>
+    <item>Lasik Laser</item>
+    <item>Lasik Refractive Services</item>
+    <item>LiverAnd kidney</item>
+    <item>LiverCancer treatment</item>
+    <item>Liver DisoRoader</item>
+    <item>Liver Transplantation</item>
+    <item>Liver Transplantation </item>
+    <item>Low VisionAids </item>
+    <item>Low Vision EyeBank </item>
+    <item>MalariaClinic</item>
+    <item>Male General</item>
+    <item>MaritalCounseling</item>
+    <item>Marital Therapy.Stress Management</item>
+    <item>Maternity</item>
+    <item>MaternityCare </item>
+    <item>Maxillo Facial surgery</item>
+    <item>MaxillofacialAnd Oral surgery</item>
+    <item>Maxillofacial Surgery </item>
+    <item>Medical</item>
+    <item>Medical </item>
+    <item>MedicalAnd Surgical</item>
+    <item>MedicalAnd Surgical </item>
+    <item>MedicalAnd Surgical Gastroenterology</item>
+    <item>MedicalCriticalCare Medicine Dermatology</item>
+    <item>Medical Department</item>
+    <item>Medical Oncology</item>
+    <item>Medical Oncology </item>
+    <item>Medical OncologyNeo-Natology and Paediatric OncologyRadiation OncologySurgical OncologyDentalGynaecological Oncology GynaecologyAnd Obstetrics</item>
+    <item>Medical Retina</item>
+    <item>Medical Speciality</item>
+    <item>Medical termination</item>
+    <item>Medicine</item>
+    <item>Medicine </item>
+    <item>Medicine - Infertility</item>
+    <item>Medicine andCardiologyNephrology</item>
+    <item>Medicine (generalAndCardiology)</item>
+    <item>Medicine / Wellness</item>
+    <item>Medicine / Wellness Psychiatry Pulmonology Radiation Oncology RadiologyAnd Imageology Rheumatology Spine Surgery Surgical Gastroenterology Transfusion Medicine Urology </item>
+    <item>MedicineAndAllied Specialists</item>
+    <item>MedicineAndCardiology</item>
+    <item>MedicineAndCriticalCare</item>
+    <item>MedicineAnd Physiotherapy</item>
+    <item>MedicineAnd Rehabilitation</item>
+    <item>Medicine Department</item>
+    <item>Medicine General</item>
+    <item>Medicine/TBRD</item>
+    <item>MeditationAnd Holistic</item>
+    <item>Memory TrainingClinics.Child GuidanceAnd Mental RetardationClinic. </item>
+    <item>Mental Health</item>
+    <item>Mental HealthAndBehavioural Sciences</item>
+    <item>MetabolicAndBariatric Surgery</item>
+    <item>MetabolismAnd Diabetes</item>
+    <item>Microbiology</item>
+    <item>Microbiology </item>
+    <item>MicrobiologyAnd Pathology</item>
+    <item>Microbiology Nephrology</item>
+    <item>Microbiology. </item>
+    <item>Microscope</item>
+    <item>Microsurgery</item>
+    <item>MicroSystemAcupuncture</item>
+    <item>Migraine</item>
+    <item>MinimalAccessAndBariatric Surgery</item>
+    <item>MinimalAccess Surgery</item>
+    <item>Minimal Invasive Surgery</item>
+    <item>Minimally Invasive </item>
+    <item>Minimally Invasive Spine SurgeryAnd Neuro Surgery</item>
+    <item>Minimally Invasive Surgery</item>
+    <item>Minimally Invasive Surgery </item>
+    <item>Molecular Diagnostics Neuro Oncology </item>
+    <item>Mood Disorders</item>
+    <item>Mother andChildCare </item>
+    <item>MotherCare</item>
+    <item>Naturopathy </item>
+    <item>Neo - Natology</item>
+    <item>Neonatal intensiveCare unitVaccinations</item>
+    <item>Neonatology</item>
+    <item>Nephrology</item>
+    <item>Nephrology </item>
+    <item>NephrologyAnd Dialysis</item>
+    <item>NephrologyAnd RenalCare</item>
+    <item>NephrologyAnd Renal Transplant</item>
+    <item>Nephrology Neurology Neurosurgery</item>
+    <item>Nephrology Pathology</item>
+    <item>NephrologyCardiology</item>
+    <item>NephrologyNeuro Sciences</item>
+    <item>NephrologyNeuro Surgery</item>
+    <item>NephrologyNeurology</item>
+    <item>Neuro - Surgery</item>
+    <item>Neuro and TraumaCare UrologyGastroenterology and G.I surgeryCriticalCare servicesGeneral medicine andCardiologyPathologists and Laboratory servicesPharmacyAmbulanceDiet </item>
+    <item>NeuroAnd Spine Surgery</item>
+    <item>Neuro Medicine</item>
+    <item>Neuro Ophthalmology</item>
+    <item>Neuro Ophthalmology </item>
+    <item>Neuro Psychiatry</item>
+    <item>Neuro Psychiatry </item>
+    <item>Neuro Rehabilitation</item>
+    <item>Neuro Sciences</item>
+    <item>Neuro Sciences </item>
+    <item>Neuro Surgery</item>
+    <item>Neuro Surgery </item>
+    <item>Neuro Surgery Dental </item>
+    <item>Neuro Surgery Neurology</item>
+    <item>Neuro surgeryUro surgery </item>
+    <item>Neurological Sciences – Neurology</item>
+    <item>Neurological Sciences – Neurosurgery</item>
+    <item>Neurology</item>
+    <item>Neurology </item>
+    <item>Neurology and Neuro SurgeryOrthopedic and Traumatology</item>
+    <item>Neurology Neurosurgery</item>
+    <item>Neurology Orthopaedics</item>
+    <item>NeurologyDermatology</item>
+    <item>NeurologyNeurophysiologyNeurosurgeryNuclear MedicineOncology MedicalOncology SurgicalOphthalmologyOrthopedicPaediatricCardiac SciencesPaediatric SurgeryPediatricsPathologyPeripheralAnd Endovascular SurgeryPlasticAndCosmetic SurgeryPsychiatryRadiologyAnd UltrasoundRehabilitation MedicineRenal Transplant SurgeryResearchRheumatologyAndClinical ImmunologySleep MedicineSpine SurgerySurgical GastroenterologyAnd Liver TransplantationThoracic SurgeryTransfusion MedicineUrology </item>
+    <item>NeurologyNeurosurgeryPaediatrics and Paediatrics SurgeryPlastic SurgeryUrologyEndocrinologyAnaesthesiaCardiologyChest and T.B.DentalClinicDiabetesDermatologyE.N.T.EndocrinologyGastro-entrologyGeneral MedicineGeneral and Laparoscopic SurgeryGynaecology GynaecologyAnd Obstetrics</item>
+    <item>NeurologyOphthalmology</item>
+    <item>NeurologySurgery</item>
+    <item>Neuro-Ophthalmology</item>
+    <item>Neurophysiology</item>
+    <item>Neuroradiology</item>
+    <item>Neurosciences</item>
+    <item>Neurosciences </item>
+    <item>Neurosciences Pediatrics</item>
+    <item>Neurosurgery</item>
+    <item>Neuro-surgery</item>
+    <item>Neurosurgery </item>
+    <item>Neurosurgery Orthopedic</item>
+    <item>Neurosurgery Surgical </item>
+    <item>Neurosurgery Urology </item>
+    <item>NeurotherapyEye Pledges and Donation</item>
+    <item>Neurotology </item>
+    <item>NICU </item>
+    <item>Nose</item>
+    <item>NOSE and THROAT)Dental Emergency </item>
+    <item>NoseAnd Sinus Surgery</item>
+    <item>NoseAnd Throat (ENT)Neurology Radiology Plastic Surgery General Medicine </item>
+    <item>Nuclear Medicine</item>
+    <item>Nuclear Medicine </item>
+    <item>Nursing </item>
+    <item>NutritionAnd Dietetics</item>
+    <item>NutritionAnd Dietetics </item>
+    <item>NutritionalAdvice </item>
+    <item>O.P.D. services</item>
+    <item>Obesity</item>
+    <item>Obs Gynae</item>
+    <item>Obstetrics</item>
+    <item>Obstetrics </item>
+    <item>Obstetrics and Gynaecology</item>
+    <item>ObstetricsAnd Gyaenocology</item>
+    <item>ObstetricsAnd Gynaecology</item>
+    <item>ObstetricsAnd Gynaecology </item>
+    <item>ObstetricsAnd GynaecologyEye </item>
+    <item>ObstetricsAnd Gynecology</item>
+    <item>Obstetricsand Gynaecology</item>
+    <item>Obstetricsand Gynaecology </item>
+    <item>Obstetricsand GynaecologyGeneral and Laparoscopic SurgeryInfertilityAnd IVFPediatrics </item>
+    <item>Obstetricsand GynaecologyOphthalmology</item>
+    <item>Obstetricsand GynaecologyOrthopedics </item>
+    <item>Obstetricsand GynaecologyPhysiotherapyAnd Rehabilitation</item>
+    <item>Obstetricsand Gynaecology</item>
+    <item>ObstetricsAnd Gynaecology </item>
+    <item>Obstetrics-Gynaecology</item>
+    <item>Occupational Therapy</item>
+    <item>Oculoplasty</item>
+    <item>Oculoplasty </item>
+    <item>Oculoplasty Services</item>
+    <item>Of pregnancy</item>
+    <item>Onco Surgery</item>
+    <item>Oncology</item>
+    <item>Oncology </item>
+    <item>Oncology (Cancer)</item>
+    <item>Oncology (Surgical)</item>
+    <item>Oncology /CancerCare</item>
+    <item>Oncology Laparoscopic Surgery</item>
+    <item>Oncology Paediatric</item>
+    <item>Oncology PainAnd Palliative</item>
+    <item>Oncology Surgery</item>
+    <item>OncologyMinimalAccess</item>
+    <item>Oncosurgery</item>
+    <item>Operating</item>
+    <item>Ophthalmic</item>
+    <item>Ophthalmology</item>
+    <item>Ophthalmology </item>
+    <item>Ophthalmology (Eye)</item>
+    <item>Ophthalmology (Eye) </item>
+    <item>Ophthalmology Dental</item>
+    <item>Ophthalmology Orthopedics</item>
+    <item>Ophthalmology Physiotherapy </item>
+    <item>Ophthalmology.</item>
+    <item>OphthalmologyOralAnd Faciomaxillary Surgery</item>
+    <item>OphthalmologyOrthopedics</item>
+    <item>OphthalmologyPulmonology</item>
+    <item>OphthalmologyRadiology </item>
+    <item>Opthamalogy (Eye)</item>
+    <item>Optical</item>
+    <item>Oral and Maxillofacial Surgery</item>
+    <item>OrbitAnd Oculoplasty</item>
+    <item>Orchid FertilityAnd IVFCentre </item>
+    <item>Ortho</item>
+    <item>Ortho Surgeon</item>
+    <item>Orthodontic Treatment</item>
+    <item>Orthodontistry</item>
+    <item>OrthoOrthopaedics</item>
+    <item>Orthopaedic</item>
+    <item>Orthopaedic </item>
+    <item>OrthopaedicAnd Joint Replacement</item>
+    <item>Orthopaedic Surgery</item>
+    <item>Orthopaedic Surgery </item>
+    <item>OrthopaedicENT</item>
+    <item>Orthopaedics</item>
+    <item>Orthopaedics </item>
+    <item>Orthopaedics Spine Surgery</item>
+    <item>Orthopeadics </item>
+    <item>Orthopedic</item>
+    <item>Orthopedic </item>
+    <item>Orthopedic and Joint Replacement</item>
+    <item>Orthopedic and TraumatologyPediatrics</item>
+    <item>OrthopedicAnd Traumatology</item>
+    <item>Orthopedic General Surgery</item>
+    <item>Orthopedic Pathology</item>
+    <item>Orthopedic Pediatrics</item>
+    <item>Orthopedic Surgery</item>
+    <item>OrthopedicMedicineCardiologyNeuro Surgery Dental IntensiveCare UnitOphthalmology General SurgeryAnesthetist Pediatrics</item>
+    <item>OrthopedicPathologist</item>
+    <item>OrthopedicPediatrics</item>
+    <item>Orthopedics</item>
+    <item>Orthopedics </item>
+    <item>OrthopedicsAnd Trauma</item>
+    <item>Orthopedics Radiology</item>
+    <item>Orthopedics Surgery</item>
+    <item>OrthopedicsPediatrics </item>
+    <item>OrthoticsAnd Prosthetics </item>
+    <item>OthersPediatrics</item>
+    <item>Otorhino Laryngology</item>
+    <item>Otorhinolaryngology</item>
+    <item>Otorhinolaryngology (ENT Surgery)</item>
+    <item>Otorhinolaryngology (ENT)</item>
+    <item>Otorhinolaryngology Pathology</item>
+    <item>Otorinolaryngology (ENT)</item>
+    <item>P.S.M.</item>
+    <item>PACClinic </item>
+    <item>Paediatric</item>
+    <item>Paediatric </item>
+    <item>PaediatricAnd Neonatology</item>
+    <item>PaediatricAnd NeonatologyNeurology</item>
+    <item>PaediatricCardiology</item>
+    <item>Paediatric Endocrinology</item>
+    <item>Paediatric haematology</item>
+    <item>Paediatric Medicine</item>
+    <item>Paediatric Nephrology</item>
+    <item>Paediatric Neurology</item>
+    <item>Paediatric Ophthalmology</item>
+    <item>Paediatric OphthalmologyAnd Squint</item>
+    <item>Paediatric Ophthalmology DepartmentOculoplasty</item>
+    <item>Paediatric Physiotherapy </item>
+    <item>Paediatric surgery</item>
+    <item>Paediatric Surgery </item>
+    <item>Paediatric Urology</item>
+    <item>PaediatricDieteticsAnd Nutrition</item>
+    <item>Paediatrician</item>
+    <item>Paediatrics</item>
+    <item>Paediatrics Surgery</item>
+    <item>PaedsAnd Paeds.Casualty </item>
+    <item>PaedsNeonatal andAdult VentilaterBipap</item>
+    <item>PainAnd PalliativeCare</item>
+    <item>PainAnd PalliativeCare Unit</item>
+    <item>PainClinic</item>
+    <item>Pain Management</item>
+    <item>Painless Delivery</item>
+    <item>PalliativeCare</item>
+    <item>Panchakarma</item>
+    <item>Panchakarma </item>
+    <item>Panchkarma</item>
+    <item>Paramedical Specialities </item>
+    <item>Park Mother`s Nest</item>
+    <item>Pathology</item>
+    <item>Pathology </item>
+    <item>Pathology and Laboratory Medicine </item>
+    <item>PathologyAnd MicrobiologyRadio diagnosis and Internevtional Neuro Radiology</item>
+    <item>PathologyAnd Ophthalmology </item>
+    <item>Pathology Laboratory</item>
+    <item>PathologyPediatrics</item>
+    <item>PathologyRadiology </item>
+    <item>PC Medicine</item>
+    <item>Peadiatric</item>
+    <item>Peads </item>
+    <item>Pediatric</item>
+    <item>Pediatric </item>
+    <item>PediatricCardiology</item>
+    <item>Pediatric Dentistry</item>
+    <item>Pediatric Ophthalmology</item>
+    <item>Pediatric Ophthalmology and Squint Oculoplasty Services </item>
+    <item>Pediatric Pediatric Surgery</item>
+    <item>Pediatric surgery</item>
+    <item>Pediatric Urology</item>
+    <item>Pediatric-Ophthalmology</item>
+    <item>Pediatrics</item>
+    <item>Pediatrics </item>
+    <item>PediatricsAnd Neonatology</item>
+    <item>PediatricsAnd Neonatology Urology </item>
+    <item>Pediatrics Surgery</item>
+    <item>Pediatrics Urology</item>
+    <item>PediatricsBronchoscopy and Pulmonology</item>
+    <item>PediatricsGeneralAnd Laparoscopic SurgeryOrthopedic </item>
+    <item>PediatricsMedicineOrthopedicENTPlastic SurgeryUrologyNeuro SurgeryCancer Surgery </item>
+    <item>PediatricsNeurosurgery</item>
+    <item>PediatricsPhysiotherapy </item>
+    <item>Pediatritcs</item>
+    <item>PeripheralAnd Endovascular Surgery</item>
+    <item>Phacoemulsification</item>
+    <item>Phacoemulsification </item>
+    <item>Pharmacology</item>
+    <item>PharmacologyPhysiology</item>
+    <item>Pharmacy</item>
+    <item>Pharmacy </item>
+    <item>Physical Medicine</item>
+    <item>Physical medicine and rehabilitation</item>
+    <item>Physical MedicineAnd Rehabilitation</item>
+    <item>Physician</item>
+    <item>Physiology</item>
+    <item>Physiology </item>
+    <item>Physiology Neurosurgery</item>
+    <item>Physiotherapist</item>
+    <item>Physiotherapy</item>
+    <item>Physiotherapy </item>
+    <item>Physiotherapy and Rehabilitation</item>
+    <item>PhysiotherapyAnd Occupational Therapy</item>
+    <item>PhysiotherapyAnd Rehabilitation</item>
+    <item>PhysiotherapyAnd Rehabilitation </item>
+    <item>PhysiotherapyAnd Rehabilitation (Pain Medicine) </item>
+    <item>Physiotherapy Services </item>
+    <item>PhysiotherapyENT</item>
+    <item>PhysiotherapyNeurology and Neuro SurgeryNephrology and DialysisUrologyIntervention and Non InterventionCardiologyVascular Surgery </item>
+    <item>Piles</item>
+    <item>Plastic</item>
+    <item>Plastic andCosmetic Surgery</item>
+    <item>Plastic andCosmetic surgery </item>
+    <item>Plastic and Reconstructive Surgery</item>
+    <item>Plastic and Reconstructive SurgeryGen. Surgery andBariatric SurgeryInternal Medicine</item>
+    <item>Plastic and Reconstructive SurgeryPaediatric Surgery </item>
+    <item>Plastic /Cosmetic surgery</item>
+    <item>PlasticAndCosmetic Surgery</item>
+    <item>PlasticAndCosmetic SurgerySpine Surgery</item>
+    <item>PlasticAnd Micro vascular Surgery</item>
+    <item>PlasticAnd Reconstructive</item>
+    <item>PlasticAnd Reconstructive Surgery</item>
+    <item>Plastic Reconstructive Surgery andBurns</item>
+    <item>Plastic surgery</item>
+    <item>Plastic Surgery </item>
+    <item>Plastic Surgery andCosmetic Surgery</item>
+    <item>Plastic SurgeryAndCosmetic Surgery</item>
+    <item>Plastic Surgery Radio Diagnosis</item>
+    <item>Plastic Surgery. </item>
+    <item>Plastic SurgeryGastroenterology</item>
+    <item>Plastic/Cosmetic Surgery</item>
+    <item>PleuralAspiration</item>
+    <item>PleuralBiopsiesAnd FNAC </item>
+    <item>PPCT</item>
+    <item>PPCT Introduction</item>
+    <item>Pranic Healing</item>
+    <item>Prasutitantra /Stree yoga</item>
+    <item>PreAnd Post Natal</item>
+    <item>Preventive </item>
+    <item>Preventive and Social Medicine</item>
+    <item>Preventive HealthCare</item>
+    <item>Prostate</item>
+    <item>Psychiatric</item>
+    <item>Psychiatrist</item>
+    <item>Psychiatry</item>
+    <item>Psychiatry </item>
+    <item>Psychiatry andClinical Psychology</item>
+    <item>PsychiatryAnd Psychology</item>
+    <item>PsychiatryAnd Psychometry</item>
+    <item>Psychiatry EmergencyAndAcuteCare Medicine</item>
+    <item>Psychiatry Eye</item>
+    <item>Psychiatry Eye </item>
+    <item>Psychiatry Pulmonary Medicine</item>
+    <item>PsychiatryDental </item>
+    <item>Psycho diagnostics services</item>
+    <item>Psychology</item>
+    <item>Psychology </item>
+    <item>PsychotherapyClinic</item>
+    <item>Pulm Medicine</item>
+    <item>Pulmonary Medicine</item>
+    <item>Pulmonologist</item>
+    <item>Pulmonology</item>
+    <item>Pulmonology </item>
+    <item>Pulmonology -ChestRadiology</item>
+    <item>Pulmonology Radio-diagnosis</item>
+    <item>Pulmonology/Allergy/Asthma</item>
+    <item>Radiation oncology</item>
+    <item>Radiation Therapy – Radio Therapy</item>
+    <item>Radio diagnosis</item>
+    <item>Radio Diagnosis </item>
+    <item>Radio diagnosisand Imaging</item>
+    <item>Radio imaging Services</item>
+    <item>Radio Therapy</item>
+    <item>Radiodiagnosis</item>
+    <item>Radio-diagnosis</item>
+    <item>Radiology</item>
+    <item>Radiology </item>
+    <item>Radiology and Imaging</item>
+    <item>Radiology and Nuclear Medicine</item>
+    <item>RadiologyAnd Imaging</item>
+    <item>RadiologyAnd Ultrasound</item>
+    <item>Radiology Nephrology </item>
+    <item>Radiology Ophthalmology</item>
+    <item>Radiology Rheumatology</item>
+    <item>Radiology Sciences </item>
+    <item>Radiology(Sonography)</item>
+    <item>RadiologyRespiratory Medicine</item>
+    <item>Radiolory/Ultrasonography</item>
+    <item>Radiotherapy</item>
+    <item>Radiotherapy </item>
+    <item>Radiotherapy and Oncology</item>
+    <item>RadiotherapyAnd Oncology</item>
+    <item>Reconstructive andCosmetic SurgeryPaediatricsPhysiotherapyAnd RehabilitationPlastic SurgeryRadiologyAnd Imaging SciencesRespiratoryAnd Sleep Medicine (Pulmonary Medicine)Skin andCosmetologyUrologyVascularAnd Endovascular Surgery </item>
+    <item>ReconstructiveAnd Plastic Surgery</item>
+    <item>Reconstructive Surgery </item>
+    <item>Rediotherapy</item>
+    <item>Refractive</item>
+    <item>Refractive Surgeries Phaco </item>
+    <item>Refractive Surgery </item>
+    <item>Refractive Surgery Services</item>
+    <item>Rehabilitation</item>
+    <item>Rehabilitation andAfterCareAntismokingAnd TobaccoClinicPsycho diagnostic</item>
+    <item>RelaxationAnd Meditation therapy. </item>
+    <item>Renal Sciences </item>
+    <item>Renal Transplant</item>
+    <item>Renal Transplant Surgery</item>
+    <item>Renal transplantationAnd Treatment of Erectile Dysfunction </item>
+    <item>Reproductive Medicine Unit</item>
+    <item>Respiratory</item>
+    <item>RespiratoryAnd Sleep Medicine</item>
+    <item>Respiratory Medicine</item>
+    <item>Respiratory-Medicine</item>
+    <item>Restoration</item>
+    <item>Retina</item>
+    <item>Retina </item>
+    <item>RetinaAnd Vitreous</item>
+    <item>RetinaClinic</item>
+    <item>RetinaClinic </item>
+    <item>Retina Services</item>
+    <item>Retinal Detachment UveitisAnd Ocular </item>
+    <item>Rheumatology</item>
+    <item>Rheumatology </item>
+    <item>Robotic Surgery</item>
+    <item>RootCanal TreatmentOrthodontic Treatment (Braces)Dental implantsDentalCrown andBridgeComposite FillingsPorcelain VeneersTeeth Whitening</item>
+    <item>Rural HTC</item>
+    <item>SeniorChest PhysicianAndAllergist Specialist</item>
+    <item>ServicesComputer Vision </item>
+    <item>Sexual Debility</item>
+    <item>Sexual DisoRoaders</item>
+    <item>Shalkya</item>
+    <item>Shalya</item>
+    <item>ShoulderAnd Sports</item>
+    <item>Skin</item>
+    <item>Skin </item>
+    <item>Skin and Leprosy</item>
+    <item>Skin and STD</item>
+    <item>Skin and V. D.</item>
+    <item>Skin and VD</item>
+    <item>Skin and vd </item>
+    <item>SkinAnd VD</item>
+    <item>SkinAnd VDDental </item>
+    <item>SkinCare </item>
+    <item>SkinCare Services </item>
+    <item>Skin Dental</item>
+    <item>Skin V.D.</item>
+    <item>SkinUrology </item>
+    <item>SleepClinic</item>
+    <item>Sleep Disorders</item>
+    <item>Sleep medicine</item>
+    <item>Sleep studies</item>
+    <item>Special Hematology</item>
+    <item>Spectacle Removal</item>
+    <item>Speech and Hearing</item>
+    <item>Speech Therapy</item>
+    <item>Speech therapyNeuro-surgery </item>
+    <item>Spinal Surgery</item>
+    <item>Spine Related Disorders</item>
+    <item>Spine Surgery</item>
+    <item>Spine Surgery </item>
+    <item>Sport Medicine/ Physiotherapy</item>
+    <item>Sports Injuries </item>
+    <item>Sports Medicine</item>
+    <item>Sports Medicine Surgical Gastroenterology Surgical Oncology</item>
+    <item>Squint</item>
+    <item>Squint and Pediatric OphthalmologyGlaucoma</item>
+    <item>SquintAnd OculoplastyClinic </item>
+    <item>SquintAnd oculoplasty Surgeries</item>
+    <item>SquintAnd Orthoptics </item>
+    <item>SquintClinicChild EyeCare</item>
+    <item>STD</item>
+    <item>StemCell Therapy</item>
+    <item>StemCell Therapy and Regenerative Medicine</item>
+    <item>StoneClinic</item>
+    <item>Strabismus Pediatric OphthalmologyGlaucoma Services</item>
+    <item>StressCounselling</item>
+    <item>Stress Management</item>
+    <item>Suicide PreventionClinic</item>
+    <item>Surgery</item>
+    <item>Surgery </item>
+    <item>Surgery and Orthopaedic</item>
+    <item>SurgeryAnd Minor OT Services.</item>
+    <item>Surgery PlasticAnd Reconstructive Surgery</item>
+    <item>Surgery Plastic Surgery RadiodianosisAnd ImagingSkinPhysiotherapy GynaecologyAnd ObstetricsOrthopaedic ENT (EAR</item>
+    <item>Surgery. </item>
+    <item>SurgeryGynaecology GynaecologyAnd Obstetrics</item>
+    <item>Surgical</item>
+    <item>Surgical </item>
+    <item>Surgical Gastroenterology</item>
+    <item>Surgical Oncology</item>
+    <item>Surgical Oncology </item>
+    <item>Surgical Oncology Telemedicine</item>
+    <item>Surgical Retina</item>
+    <item>Surgical Super specialtyClinic include</item>
+    <item>Surrogacy</item>
+    <item>SurrogacyAnd IVF</item>
+    <item>SyndromeClinic</item>
+    <item>T.B. andChest</item>
+    <item>TB andChest</item>
+    <item>Tb andChest diseases</item>
+    <item>TBAndChest</item>
+    <item>Tb diagnosis</item>
+    <item>Tb treatment </item>
+    <item>Teeth whitening </item>
+    <item>Telemidicine</item>
+    <item>Test TubeBaby/IVF </item>
+    <item>Therapy</item>
+    <item>Thoracic Surgery</item>
+    <item>Thoracic Vascular Surgery</item>
+    <item>Thoracoscopy </item>
+    <item>Throat / Larynx Surgery</item>
+    <item>TMTPFT</item>
+    <item>TobaccoCessation</item>
+    <item>Tonsillectomy</item>
+    <item>Tonsillitis</item>
+    <item>Transfusion Medicine </item>
+    <item>Transplant</item>
+    <item>Transplant Medicine</item>
+    <item>Trauma</item>
+    <item>Trauma andAMARSSocialAnd Preventive Medicine PharmacyNeurology DieteticsGastroenterologyBiomedical EngineeringPsychiatry Medical Records DepartmentClinical Psychology Medical InformaticsPaediatric Medicine Medical and Social WelfareAnaesthesiology andCriticalCare General Surgery Urology LibraryCardiothoracic and Vascular Surgery </item>
+    <item>TraumaCareCentreOrthopedic and Joint Replacement</item>
+    <item>TraumaCenter</item>
+    <item>TraumaCentre Urology</item>
+    <item>TURP URS.Paediatric surgery.Laparoscopic surgery for gallBladders</item>
+    <item>Ultra Sonography</item>
+    <item>Ultrasound</item>
+    <item>UnaniPanchkarma</item>
+    <item>Urban HTC </item>
+    <item>Uro Gynaecology</item>
+    <item>Uro Oncology</item>
+    <item>Uro Surgery</item>
+    <item>Uroflometry</item>
+    <item>Urology</item>
+    <item>Urology </item>
+    <item>UrologyAndAnthology</item>
+    <item>UrologyAnd Laparoscopy</item>
+    <item>UrologyAnd Renal transplant</item>
+    <item>UrologyCriticalCare Medicine</item>
+    <item>Urology including Endourology</item>
+    <item>Urology Neonatology</item>
+    <item>Urology PhysiotherapyMotherAndChild Ophthalmology</item>
+    <item>Urology Surgery</item>
+    <item>Urology SurgeryCardio</item>
+    <item>Urology Urogynaecology </item>
+    <item>Urology Vascular Surgery </item>
+    <item>Urology. </item>
+    <item>Urology/Andrology</item>
+    <item>Uro-oncology </item>
+    <item>UroSurgery</item>
+    <item>Uvea Service ICARE Eye Hospital and Postgraduate InstituteLow Vision </item>
+    <item>UVEITIS</item>
+    <item>Uveitis </item>
+    <item>UveitisClinicRefractive Surgery Services</item>
+    <item>V.D. Ortho</item>
+    <item>Valve Replacement</item>
+    <item>Vascular and Throacic surgery</item>
+    <item>VascularAnd Non Vascular Interventional Radiology </item>
+    <item>VascularAnd Peripheral</item>
+    <item>VascularAnd Thoracic Surgery (CVTS)Neonatology</item>
+    <item>Vascular Surgery</item>
+    <item>Vascular Surgery </item>
+    <item>Venereology and Leprosy</item>
+    <item>Venereology and Leprosy (D.V.L)</item>
+    <item>VenereologyAnd Leprosy</item>
+    <item>Vision Rehabilitation </item>
+    <item>Vision rehabilitationAnd low vision </item>
+    <item>VisualAid. </item>
+    <item>Vitreo-Retina Surgeries</item>
+    <item>WAIST LINECLINIC </item>
+    <item>White Patches</item>
+    <item>Yoga</item>
+    <item>Yoga </item>
+    <item>Yoga andAlternative therapies
+        andAssisted Reproductive Techniques</item>
+    <item>AccidentAnd Emergency</item>
+    <item>Adolescent GyneClinicAdolescentBehavioral ProblemsAdolescent Vaccination EndocrinologicalClinic MenopauseClinic InfertilityClinic MaleAnd Female Infertility Recurrent Pregnancy Loss Management High Risk Pregnancy ManagementCancer Screening</item>
+    <item>Advanced Laparoscopic Surgery Orthopaedics and Traumatology Ophthalmology Urology andAndrology Internal Medicine andCriticalCare Neuro SurgeryArthroscopy and Endoscope Spine SurgeryCosmetic and Plastic Surgery ObstetricsAnd Gynaecology Medical Oncology ENT Endocrinology andDiabetologyCardiology 24x7 Pharmacy 24x7 Laboratory Services 24x7 Radiology Services 24x7Ambulance Services International Patient Wing</item>
+    <item>Advanced Surgery</item>
+    <item>AlcoholAnd other substance deaddiction treatment</item>
+    <item>AllergyAnaesthesiologyCardiologyCosmetology Dentistry Dermatology Endocrinology ENT Gastroenterology General Medicine General Surgery Haematology Nephrology Neurology ObstetricsAnd Gynaecology Ophthalmology Orthopaedics Paediatric Surgery Paediatrics Physiotherapy Plastic Surgery Psychiatry Pulmonology Urology</item>
+    <item>Anaesthesia </item>
+    <item>AnaesthesiologyCardiologyCardiothoracic SurgeryCosmetology Dermatology Diabetology Endocrinology ENT Gastroenterology Geriatrics haematology Neonatology Nephrology Neurology ObstetricsAnd Gynaecology Ophthalmology Orthopaedics Paediatrics Physiotherapy Plastic Surgery Radiology Rheumatology Urology Vascular Surgery</item>
+    <item>AnaesthesiologyChest MedicineDentalENTGeneral SurgeryInternal MedicineOncologyOphthalmologyPhysiotherapyPlastic Reconstructive SurgeryPulmonologyRadiology</item>
+    <item>AnaesthesiologyEmergency MedicineOrthopedicAnd Joint ReplacementsCriticalCareNephrologyUrologyGeneralAnd Laparoscopic SurgeryObstetricsand GynaecologyNeurologyPediatricsAnd NeonatologyInternal MedicinePsychiatristsRadiologyNeurosurgeryPlastic SurgeryOncologyPhysiotherapyAnd RehabilitationDermatologyOphthalmologyENTICU</item>
+    <item>Anesthesiology</item>
+    <item>AnesthesiologyBariatric Surgery Dermatology Diabetology Dietetics ENT Gastroenterology General Medicine General Surgery Gynaecology Joint Replacement Surgery Laparoscopic Surgery Maxillofacial Surgery Ophthalmology Oral Surgery Orthopedic Surgery Orthopedics Pain Management Pediatric Surgery Physiotherapy Plastic Surgery andCosmetic Surgery Radiology Spine Surgery Surgical Oncology Urology Vascular Surgery</item>
+    <item>AnesthesiologyCardiologyCardiothoracic SurgeryCriticalCare Dentistry Dermatology Endocrinology ENT Gastroenterology Gastrointestinal Medicine General Medicine General Surgery Gynaecology Laboratory Medicine Maxillofacial Surgery Neonatology Nephrology Neurology Ophthalmology Orthopedics Pathology Pediatric Surgery Plastic and Reconstructive Surgery Psychiatry Pulmonology Radio-Diagnosis Respiratory Medicine Transfusion Medicine Urology</item>
+    <item>AnesthesiologyCardiologyCardiothoracic Surgery Dentistry Dermatology ENT Gastroenterology General Medicine General Surgery Gynaecology Neonatology Nephrology Neuro Surgery Neurology Ophthalmology Orthopedics Pediatrics Radiology</item>
+    <item>AnesthesiologyCardiologyClinical Oncology Gyneac Oncology Hemato Oncology haematology Integrative Oncology Medical Oncology Molecular Oncology Nephrology Nuclear Medicine Oncology Pediatric haematology and Oncology Pediatric Oncology Plastic Surgery Preventive Oncology Radiation Oncology Radiology Surgical Gastroenterology Surgical Oncology Uro Oncology</item>
+    <item>AnesthesiologyCardiologyCosmetic SurgeryCosmetologyCriticalCare Dentistry Dentistry and Maxillofacial Surgery Dermatology Endocrinology Endoscopy ENT Family Medicine Gastroenterology Internal Medicine Laboratory Medicine Laparoscopic Surgery Nephrology Neuro Surgery Neurology Nuclear Medicine Obstetricsand Gynaecology Oncology Ophthalmology Orthopedics Pediatric Surgery Pediatrics Physiotherapy Plastic Surgery Psychiatry Pulmonology Radiation Oncology Radiology Reproductive Medicine Rheumatic Disorders Speech Therapy Spine Related Disorders Spine Surgery Sports Medicine Vascular Surgery</item>
+    <item>AnesthesiologyCardiology Dentistry Dermatology ENT Gastroenterology General Medicine Homeopathy Maxillofacial Surgery Nephrology Neuro Surgery Neurology Obstetricsand Gynaecology Oncology Ophthalmology Orthopedics Pathology Pediatric Surgery Pediatrics Physiotherapy Plastic Surgery Psychiatry Pulmonology Radiology Rheumatology Spine Surgery Urology Vascular Surgery</item>
+    <item>AnesthesiologyCriticalCare Gastroenterology Gastrointestinal Surgery Nephrology Obesity Pediatrics Urology</item>
+    <item>AnesthesiologyRadio-Diagnosis</item>
+    <item>Ano- Rectal</item>
+    <item>Arthroscopy</item>
+    <item>Ayurveda</item>
+    <item>Ayurveda Services</item>
+    <item>Ayurvedic</item>
+    <item>Biochemistry</item>
+    <item>Biomedical Engineering</item>
+    <item>Biophysics</item>
+    <item>Bio-Physics</item>
+    <item>Biostatistics</item>
+    <item>Biotechnology</item>
+    <item>BloodBank</item>
+    <item>Bone and JointClinic</item>
+    <item>Bone and Joint Hospital</item>
+    <item>BronchoscopyLithotripsy</item>
+    <item>BurnAnd Plastic SurgeryAccident and TraumaCentre </item>
+    <item>Burns and Plastic SurgeryCardiology</item>
+    <item>Button Hole TreatmentGeneral TreatmentGynaecologyUrologyOncology TreatmentInternal Medicine andCardiologyComplete DentalCareAnaesthesia</item>
+    <item>C3R</item>
+    <item>Cancer Hospital</item>
+    <item>CardiacCarePhysiotherapy </item>
+    <item>Cardiac Surgery</item>
+    <item>Cardio ThoracicAnd Vascular Surgery</item>
+    <item>Cardio ThoracisAnd Vascular Surgery</item>
+    <item>Cardiology</item>
+    <item>Cardiology </item>
+    <item>Cardiology (HeartCare)</item>
+    <item>Cardiology Dentistry</item>
+    <item>Cardiology Laparoscopic</item>
+    <item>CardiologyCardiothoracic Surgery</item>
+    <item>CardiologyGastroenterologyAnd HepatologyhaematologyNeurologyEndocrinology and DiabeticNephrologyCancerClinicMenopausalInfertilityAntenatalFamily Planning (SpecialClinic)Postnatal (SpecialClinic)Paediatric SurgeryOncologyGastro SurgeryNeuro SurgeryUrologyOncosurgery</item>
+    <item>Cardiothoracic Surgery</item>
+    <item>Cardiovascular Surgery</item>
+    <item>CataractClinicGlaucomaClinicSquintClinicOculoplasticClinicContact lensClinic</item>
+    <item>Cataract ServicesRefractive Surgery ServicesCornea ServicesGlaucoma ServicesRetina ServicesPaediatric OphthalmologyAnd Squint ServicesOculoplasty ServicesUVEITISNeuro-OphthalmologyVision Rehabilitation ServicesComputer Vision SyndromeClinicContact LensesOptical Services</item>
+    <item>Centre forCommunity Medicine</item>
+    <item>Centre of Medical</item>
+    <item>Centres of ExcellenceMedical SpecialitiesSurgical SpecialitiesDiagnostic SpecialitiesAlternate MedicineSupport Services</item>
+    <item>Chest</item>
+    <item>Chest Medicine</item>
+    <item>ChildClinic</item>
+    <item>Chiropractics</item>
+    <item>Clinical</item>
+    <item>Clinical </item>
+    <item>Cochlear ImplantMicroscopic Ear SurgeriesMyringotomy (Placement Of Ear Tubes)Ear Lobule RepairManagement Of NasalBleadingSeptoplasty For DnsTonsillectomy /AdenoidectomySurgery For Snoring/SleepAphoerHeadAnd Neck Surgery</item>
+    <item>College of Nursing</item>
+    <item>Colposcopy RoutineAnd Specialized X-Rays</item>
+    <item>Community Medicine</item>
+    <item>Computer Vision Syndrome </item>
+    <item>Computerized Eye TestingContact LensesClinicPaediatric EyeCareStitch lessCataract Surgery (Phaco)Refractive SurgeryYag LaserCosmetic and Orbital ReconstructionLacrimal Sac SurgeryGlaucoma SurgeryPtosisCorrectionSquint SurgeryRetinal SurgeryGreen Laser for Diabetic EyeOpticalCoherence Tomography (OCT)Nerve FibreAnalyserNonContact Tonometry (NCT)</item>
+    <item>Computerized RVG X-Rays </item>
+    <item>Contact Lens </item>
+    <item>Contact lenses and Low visionOcular Trauma Service</item>
+    <item>CorneaClinic LasikClinic iFS Intralase GlaucomaClinic UveitisClinic Diabetic RetinopathyClinic Medical RetinaClinic Surgical RetinaClinicC3R SquintCataract Multifocal and Toric IOL</item>
+    <item>Cornea Ocular Surface</item>
+    <item>Cosmetic DentistryTeeth Whitening </item>
+    <item>Cosmetic Smile DesignRootCanal Treatment </item>
+    <item>Cosmetic Surgery</item>
+    <item>Cosmetic/Aesthetics </item>
+    <item>Counseling forChildhoodAndAdolescentBehavioural problems</item>
+    <item>CriticalCare</item>
+    <item>CriticalCareAnd Emergency </item>
+    <item>CriticalCare Medicines </item>
+    <item>CriticalCareDentistry </item>
+    <item>CT scan</item>
+    <item>CTVS</item>
+    <item>Dental</item>
+    <item>Dental </item>
+    <item>DentalAndDermatology(Skin)</item>
+    <item>DentalCare</item>
+    <item>DentalClinic</item>
+    <item>Dental Service</item>
+    <item>Dental Services</item>
+    <item>Dental SurgeryAnaesthesia</item>
+    <item>Dentistry</item>
+    <item>Dentistry </item>
+    <item>DentistryDermatologyDiabetics and EndocrinologyEndoscopic SurgeryENTFetal MedicineGastroenterologyGeneral SurgeryInternal MedicineInterventional RadiologyOncologyOphthalmologyPediatricsPaediatric RadiologyPaediatric SurgeryPeripheral Vascular and Endovascular SciencesPlastic and ReconstructiveSports MedicineSurgeryPsychiatryRespiratory MedicineRheumatology</item>
+    <item>Dentures </item>
+    <item>Dermatology</item>
+    <item>DermatologyAnd Venereology</item>
+    <item>DermatologyDental</item>
+    <item>DermatologyDiabetes</item>
+    <item>DermatologyDietetics </item>
+    <item>DermatologyENT</item>
+    <item>DermatologyPshychaitry</item>
+    <item>Diabetes / Hypertension ( HighB.P)Cardiology </item>
+    <item>Diabetic</item>
+    <item>Diabetic and ThyroidClinic</item>
+    <item>DiabetologyEmergency</item>
+    <item>Dietetics</item>
+    <item>Dietitics and Therapeutics</item>
+    <item>Digital EEG</item>
+    <item>Doppler</item>
+    <item>Dressing</item>
+    <item>E.C.T.</item>
+    <item>E.N.T.</item>
+    <item>Ear SurgeryNoseAnd Sinus SurgeryThroat / Larynx SurgeryHeadAnd Neck SurgeryHearingAndBalancingClinicCochlear Implant SurgeryEar Discharge / Ear Wax / Middle Ear InfectionAllergiesDeafnessAdenoid / Tonsil InfectionsBalance DisordersCleft Palate Deviated Nasal Septum ( DNS )EarAches and Infections Dysphagia Sinusitis Nasal Growth / Nasal Polyp / Rhinitis Smell and Taste Disorders Sore Throats Swimmer's Ear Tinnitus Temporo-Mandibular Joint ( TMJ )</item>
+    <item>ECHO</item>
+    <item>EECP</item>
+    <item>Emergency Medicine </item>
+    <item>Emergency MedicineAndCriticalCare</item>
+    <item>Endocrinology</item>
+    <item>EndocrinologyAnd Metabolism</item>
+    <item>Endoscopy</item>
+    <item>Endourology</item>
+    <item>ENT</item>
+    <item>ENT </item>
+    <item>ENT and Maternity Hospital</item>
+    <item>ENTAnd HeadAnd Neck Surgery</item>
+    <item>ENTAnd Speech</item>
+    <item>ENTEndocrine Surgery </item>
+    <item>ENTGastroenterologyGeneral Laparoscopic SurgeryGynaecologyAnd ObstetricsInternal MedicineJoint Replacement surgeonLaboratory</item>
+    <item>ENTOphthalmology </item>
+    <item>ENTPathology </item>
+    <item>ENTPediatrics </item>
+    <item>ENTRadiology</item>
+    <item>Eye</item>
+    <item>Eye and Maternity</item>
+    <item>Eye and Maternity Hospital</item>
+    <item>Eye (Ophthalmology)General SurgeryRetinaClinic </item>
+    <item>EyeCare</item>
+    <item>EyeCare Services</item>
+    <item>EyeCasualty</item>
+    <item>Eye Disease </item>
+    <item>Eye GynaecologyAnd Obstetrics</item>
+    <item>Eye SpecialistPhysician</item>
+    <item>Fetal MedicineGastroenterologyGeneral SurgeryhaematologyAndClinical Pathology</item>
+    <item>Finance Division</item>
+    <item>Forensic MedicineAnd Toxicology</item>
+    <item>Gastro WingPaediatric WingOrtho WingNeuro WingNephro WingHeartCommandGynaecology WingGeneral Surgery</item>
+    <item>Gastroenterology</item>
+    <item>Gastroenterology </item>
+    <item>GastroenterologyAnd Human Nutrition</item>
+    <item>GastroenterologyGeneral and Laporoscopic</item>
+    <item>GastroenterologyGeriatrics </item>
+    <item>Gastroenterologyhaematology </item>
+    <item>GastroenterologySkin andCosmetic </item>
+    <item>Gastrointestinal Surgery</item>
+    <item>Gen and Laparoscopy SurgeryGynaecologyAnd ObstetricsPaediatrics Medicine SpecialtiesOrthopaedicDental Unit</item>
+    <item>General and Laparoscopic SurgeryOrthopaedicUrologyRadiologyENTPlastic SurgeryPhysiotherapy</item>
+    <item>General Laparoscopic SurgeryOrthopadics</item>
+    <item>General Medicine</item>
+    <item>General Medicine </item>
+    <item>General Ophthalmologist</item>
+    <item>General Surgery</item>
+    <item>General Surgery </item>
+    <item>General Surgery GI Surgery GynaecologyAnd ObstetricsInternal Medicine </item>
+    <item>General SurgeryGynaecologyPediatric SurgeonPediatricianEyeAnaesthesiaUrologistPhysicianPathologistCardiologistENT</item>
+    <item>Geriatric Medicine</item>
+    <item>GI SurgeryGastroenterology </item>
+    <item>Glaucoma</item>
+    <item>Gum Treatment and SurgeriesMobile Teeth Solution </item>
+    <item>Gynaecological Laparoscopic SurgeryInfertilityClinic</item>
+    <item>Gynaecology</item>
+    <item>GynaecologyAnd Obstetrics</item>
+    <item>Gynaecology GynaecologyAnd Obstetrics</item>
+    <item>GynaecologyGeneral SurgeryUrologyArthroscopyNormal DeliveryCaesarean SectionPainless Delivery</item>
+    <item>Gynaecologyhaematology </item>
+    <item>GynaecologyMinimalAccess SurgeryGeneral SurgeryDental </item>
+    <item>GynaecologyObstetricsGeneral Surgery UrologyPaediatricsGeneral MedicineOrthopaedic E N TDentalRadiologySkin and VdPathology Histology</item>
+    <item>GynaecologyPaediatricsMedicineSurgeryInfertilityLaparoscopic SurgeryInfertilityClinic</item>
+    <item>GynaecologyPediatrics</item>
+    <item>GynaecologyPhysiotherapistPediatricsENTOrthopedicsDentistEYE </item>
+    <item>haematology</item>
+    <item>headAnd Neck Oncosurgery </item>
+    <item>heart-AvoidBypass Heart Flow MappingChelation / DetoxificationArthritis Pain-Avoid Knee Surgery Kidney Stones-Remove With Rays Ozone /Bio-oxidative MedicineBack Pain-Computerized Spinal TableAntiAgeing</item>
+    <item>hip ReplacementKnee ReplacementPainClinicPaediatric OrthopedicTrauma(Accidents/Emergency)Arthroscopy/Sport InjuriesRheumatology/ArthritisClinicPhysiotherapy/Rehabilitation</item>
+    <item>homeopathy</item>
+    <item>homeopathy Dispensary:Acupressure andAcupuncture </item>
+    <item>homeophetic service</item>
+    <item>hospitalAdministration</item>
+    <item>hysteroscopic Surgery</item>
+    <item>ICU and NICU</item>
+    <item>ICUCare Unit</item>
+    <item>Impacted Teeth RemovalSnoring Treatment </item>
+    <item>IncisionalAnd ventral hernia repair </item>
+    <item>Infectious Disease</item>
+    <item>Infertility</item>
+    <item>Internal Medicine</item>
+    <item>Internal Medicine </item>
+    <item>Internal MedicineCardiologyPediatrics and NeonatologyGeneral and Laparoscopic SurgeryBariatric SurgeryGI EndoscopyObstetricsand GynaecologyInfertilityAnd IVFAnaesthesiologyOrthopedicsUrologyPlastic SurgeryDermatologyOphthalmologyENT</item>
+    <item>Internal MedicineObstetricsAnd GynaecologyGeneral SurgeryOrthopaedics and TraumatologyPaediatricsNeuropsychiatryICUAndCriticalCare Unit</item>
+    <item>IvfInfertility Testing</item>
+    <item>Joint Replacement and Reconstructive SurgeryMedicine</item>
+    <item>Joint ReplacementOrthopaedicHand and Foot TraumaPolio SurgeryPlastic SurgeryArthroscopy Surge</item>
+    <item>Kid Dentistry </item>
+    <item>Kidney</item>
+    <item>Kidney Stone</item>
+    <item>Laboratory Medicine</item>
+    <item>LaboratoryNeurology </item>
+    <item>Laparoscopic Surgery</item>
+    <item>Laproscopic Key Hole Surgery </item>
+    <item>Mammography </item>
+    <item>Maternity</item>
+    <item>Medical Oncology</item>
+    <item>Medicine</item>
+    <item>Medicine </item>
+    <item>MedicineCT ScanAnd MRIDental Surgery</item>
+    <item>MedicineGynaePaediatricsSurgery (General and Laparoscopic)DentalE.N.TEyesNeuroSkinHomeopathyPsychiatryOrthoPhysiotherapyDietarySuper Heart Specialist</item>
+    <item>Microbiology</item>
+    <item>MICS PhacoCataract SurgeryLasik Laser Surgery Ocular ProsthesisGlaucoma Treatment</item>
+    <item>Mother andChildCriticalCare </item>
+    <item>NA</item>
+    <item>Neonatology </item>
+    <item>Nephrology</item>
+    <item>Nephrology </item>
+    <item>Nephrology and UrologyENT</item>
+    <item>Nephrology Operation Theaters </item>
+    <item>NephrologyNeurosurgery </item>
+    <item>NephrologyUrology </item>
+    <item>Neuro- Psychiatry</item>
+    <item>Neuro Sciences</item>
+    <item>Neuro Surgery</item>
+    <item>Neuro Surgery </item>
+    <item>Neurology</item>
+    <item>Neurology </item>
+    <item>Neurology and NeurosurgeryBariatric and Metabolic Surgery</item>
+    <item>NeurologyGastroenterologyPlastic SurgeryUrologyGeneral SurgeryMedicineOrthopaedicAnaesthesiaGynaecology PaediatricENTPulmonology</item>
+    <item>Neuro-Ophthalmology</item>
+    <item>Neurosurgery</item>
+    <item>Neurosurgery </item>
+    <item>Neurosurgery Surgical oncology</item>
+    <item>NeurosurgeryRehabilitation </item>
+    <item>Nuclear Magnetic Resonance Imaging</item>
+    <item>Nuclear Medicine</item>
+    <item>ObesityControlSafeBirth PlaceHepatologyReconstructive SurgeryCardioCareGeneral SurgeryInternal Medicine</item>
+    <item>ObstetricsAnd Gynaecology</item>
+    <item>ObstetricsAnd Gynaecology Surgery</item>
+    <item>Obstetricsand Gynaecology</item>
+    <item>Obstetricsand GynaecologyGeneral SurgeryLaparoscopic SurgeryOrthopaedic SurgeryPaediatric SurgeryOral Maxillofacial and Dental SurgeryNeuro SurgeryUrologyPlastic andCosmetic SurgeryCriticalCareAnaesthesiology</item>
+    <item>Obstetricsand GynaecologyOphthalmology</item>
+    <item>Obstetricsand Gynaecology</item>
+    <item>ObstetricsOphthalmology </item>
+    <item>Obstretics</item>
+    <item>Occupational Therapy </item>
+    <item>Oculoplastics</item>
+    <item>Oncology</item>
+    <item>Oncology (Medical)</item>
+    <item>Ophthalmology</item>
+    <item>Ophthalmology </item>
+    <item>Ophthalmology (Eye)</item>
+    <item>OphthalmologyAnesthesia </item>
+    <item>OphthalmologyENT</item>
+    <item>Opthalmology</item>
+    <item>Opthalmology Pediatrics</item>
+    <item>Orthopaedic </item>
+    <item>OrthopaedicArthroscopyIlizarov  Neuro and Spine Surgery  Plastic andCosmetic Surgery  MinimalAccess SurgeryDepartment of Medicine  PhysiotherapyDietary ServicesAnaesthesiaEnt  SleepClinichead and NeckCancer  Paediatrics and Paediatric haematology</item>
+    <item>OrthopaedicGastroenterologyNeurosurgeryPsychiatryDietetics and Nutrition</item>
+    <item>Orthopedic</item>
+    <item>Orthopedic </item>
+    <item>OrthopedicAnd Joint Replacement</item>
+    <item>OrthopedicAnd JointsBrain and Spine </item>
+    <item>Orthopedic services</item>
+    <item>Orthopedic with Physiotherapy</item>
+    <item>OrthopedicGeneral SurgeryMedicineRadiology / Diagnostics LaboratoryPhysiotherapy and RehabilitationSlimmingCenterLife Style and DietAdvice</item>
+    <item>OrthopedicMedicineCardiologyNeuro Surgery Dental IntensiveCare UnitOphthalmology General SurgeryAnesthetist</item>
+    <item>Orthopedics</item>
+    <item>OrthopedicsAnd Joint ReplacementPhysiotherapyAnd RehabilitationPlasticAnd Reconstructive SurgeryPreventive HealthCheck-upsPsychiatryAnd PsychologyPulmonaryAndCriticalCareRadiology Renal SciencesAnd Urology </item>
+    <item>OrthopedicsObstetricsand GynaecologyOphthalmology </item>
+    <item>Otorhinolaryngology</item>
+    <item>Paediairics</item>
+    <item>Paediatric Surgery</item>
+    <item>Paediatrics</item>
+    <item>PaediatricsGynaecologyOrthopaedicsSurgeryPaediatric Surgery</item>
+    <item>PaediatricsOrthopaedicGynae. and Obst.Medicine and DialectologyGen. and Laparoscopic SurgeryAnaesthesiaRadio diagnosisEyeEntDermatologyIn-Vitro Fertilization (Ivf)Orthodontics and DentalCareCentreAyurvedaNeurologyNeuro SurgeryNeonatologyPaediatricCriticalCareChest and T.BNephrologyPaediatric SurgeryCardiologyGastroenterology</item>
+    <item>Pain and PalliativeCare</item>
+    <item>Pain Management </item>
+    <item>PanchkarmaKshara-Sutra</item>
+    <item>Pathology</item>
+    <item>Pathology </item>
+    <item>Pathology Physiotherapy </item>
+    <item>Patient Education </item>
+    <item>PediatricDentistry</item>
+    <item>PediatricE.N.TAyurvedaGeneral Physician</item>
+    <item>Pediatrics</item>
+    <item>Pediatrics </item>
+    <item>PediatricsChest and Respiratory Medicine</item>
+    <item>PediatricsNeonatologyObstetricsand GynaecologyInfertilityCentreSurgeryPathologyRadiologyAnesthesia and IntensiveCareMedical Education</item>
+    <item>Pharmacology</item>
+    <item>Physical Medicine and Rehabilitation </item>
+    <item>Physical MedicineAnd Rehabilitation</item>
+    <item>Physiology</item>
+    <item>Physiotherapy</item>
+    <item>Physiotherapy </item>
+    <item>Physiotherapy Skin </item>
+    <item>PhysiotherapyGynaecology/Obstetrics </item>
+    <item>PhysiotherapyPediatrics</item>
+    <item>Plastic andCosmetic Surgery.Urology </item>
+    <item>PlasticCosmeticPsychiatry</item>
+    <item>Plastic Surgery</item>
+    <item>Plastic Surgery </item>
+    <item>ProstateCancerKidneyCancerEnlarged Prostate (BPH)Kidney StonesFemale Urinary IncontinenceGallBladder StoneHernia RepairUterine FibroidsOvarianCystsUterine ProlapseInfertility</item>
+    <item>Psychiatry</item>
+    <item>PsychiatryRadiology </item>
+    <item>PsychiatryThyroid Speciality </item>
+    <item>PsychotherapyAndCounsellingNeurology </item>
+    <item>Pulmonary Medicine</item>
+    <item>Pulmonology</item>
+    <item>Radio Diagnosis</item>
+    <item>Radiology</item>
+    <item>Radiology </item>
+    <item>Radiology Orthopaedic </item>
+    <item>Renal Transplantation UnitRespiratory Pulmonology </item>
+    <item>ReproductiveBiology</item>
+    <item>Respiratory MedicineDermatology</item>
+    <item>Retina Vitreous</item>
+    <item>Retroperitoneoscopy</item>
+    <item>Rheumatology</item>
+    <item>RheumatologySpine Surgery </item>
+    <item>Robotic Surgery </item>
+    <item>RootCanal Treatment</item>
+    <item>Sinus</item>
+    <item>Skin</item>
+    <item>SkinCare </item>
+    <item>Speech Therapy</item>
+    <item>Spine SurgeryKnee ReplacementHip ReplacementComplicated Joints Surgery and FractureArthroscopyArthritisPhysiotherapy</item>
+    <item>Sports Guard </item>
+    <item>Squint andAmblyopia </item>
+    <item>SquintClinic</item>
+    <item>Surgery</item>
+    <item>Surgery </item>
+    <item>SurgeryInfertility </item>
+    <item>Surgical Disciplines</item>
+    <item>Surgical Gastroenterology</item>
+    <item>Surgical Oncology</item>
+    <item>Surgical OncologyHead and Neck ServicesBreast and Thoracic ServicesOrthopedic Oncology ServicesUroAnd Gynae OncologyG I Oncology ServicesNeuro Surgical Oncology ServicesReconstructive ServicesTrueBeam DelhiRadiation OncologyMedical OncologyPediatric haematology OncologyBone Marrow TransplantationAnaesthesiologyAnd Pain ManagementIntensiveCare Unit (ICU)MultispecialityClinic / TumorBoard</item>
+    <item>Teeth WhiteningSmile DesigningImplant DentistryLaser Treatment </item>
+    <item>Telemedicine</item>
+    <item>TMD </item>
+    <item>Transfusion Medicine (BloodBank)</item>
+    <item>Transplant ImmunologyAnd Immunogenetics</item>
+    <item>Transplant Patients</item>
+    <item>Trauma and SurgicalCentre</item>
+    <item>TraumaCareJoint ReplacementOrthopaedicsPlasticAnd Micro-vascularCosmetic SurgeryPain ManagementAnaesthesiaNeuro SurgeryGeneral MedicineGeneral SurgeryPhysiotherapy</item>
+    <item>Trauma ManagementCentreNeurosurgeryOrthopaedicsEar Nose and ThroatCardiologyAnd PhysicianGeneral Surgery</item>
+    <item>TuberculosisAndAllied Diseases.</item>
+    <item>TuberculosisAsthmaAndAllergiesC.O.P.D I.L.D (I.P.F) Sarcoidosis Pleural Effusion LungCancer SleepApneaBreathlessness</item>
+    <item>Ulcer</item>
+    <item>Unani </item>
+    <item>Urine Related ProblemsBleeding ProblemsInfertility ProblemsMenopausal ProblemsAdolescent Health ProblemsAntenatalCareHigh Risk PregnancyCarePainless DeliveryAdvanced Laparoscopic SurgeryLaser Surgery for Stones and ProstateTubeless Stentless PCNL</item>
+    <item>Uro Laparoscopy</item>
+    <item>Urology</item>
+    <item>Urology </item>
+    <item>Urology Ear</item>
+    <item>UrologyGynaecology</item>
+    <item>UrologyGynaecologyOrthopaedicsIntensiveCareLaparoscopic Surgery</item>
+    <item>UrologyNeurosurgery</item>
+    <item>UrologyOrthopedicsGeneral SurgeryGynaecologyLaparoscopic SurgeryPlastic SurgeryENTOphthalmologyPediatricsAnesthesiologyDentalAnd Maxillo-facial surgery</item>
+    <item>Vascular and Endovascular Surgery </item>
+    <item>Vascular Medicine Vascular Surgery </item>
+    <item>VCTC (AIDSCLINIC)</item>
+    <item>Vein Health</item>
+    <item>Vitreo-Retina Services</item>
+    <item>Weightloss SurgeryLaparoscopic SurgeryInfertility TreatmentJoint Replacement SurgerySpine SurgeryArthroscopy</item>
+    </string-array>
+</resources>
